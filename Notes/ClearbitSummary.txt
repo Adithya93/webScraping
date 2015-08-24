@@ -1,0 +1,47 @@
+General information:
+
+Appearances of "LinkedIn: "28
+Appearances of "Twitter: "2
+Appearances of "Facebook: "4
+
+Displaying information relevant to LinkedIn:
+linkedin : {'handle': 'pub/ekaterina-kochetygova/40/979/8a7'}
+linkedin : {'handle': 'in/rnigoghossian'}
+linkedin : {'handle': 'pub/rubens-nigoghossian/6/755/b97'}
+linkedin : {'handle': 'in/garimarai'}
+linkedin : {'handle': 'in/garimarai'}
+linkedin : {'handle': 'in/stephaniesantoso'}
+linkedin : {'handle': 'in/stephaniesantoso'}
+linkedin : {'handle': 'in/smaheshwari1'}
+linkedin : {'handle': 'in/danielwanginsead'}
+linkedin : {'handle': 'in/danielwanginsead'}
+linkedin : {'handle': 'in/krissymo'}
+linkedin : {'handle': 'pub/christine-galolo/61/644/854'}
+linkedin : {'handle': 'in/francinemartindale'}
+linkedin : {'handle': 'in/darrellzhang'}
+linkedin : {'handle': 'in/oswaldyeo'}
+linkedin : {'handle': 'in/emmanuelallix'}
+linkedin : {'handle': 'pub/derek-tan/a/887/844'}
+linkedin : {'handle': 'pub/teresa-wong/84/215/b62'}
+linkedin : {'handle': 'in/siurui'}
+linkedin : {'handle': 'pub/charif-el-ansari/1/65a/351'}
+linkedin : {'handle': 'pub/alan-tan/15/99b/b56'}
+linkedin : {'handle': 'in/harrydanielfu'}
+linkedin : {'handle': 'in/mikeferrer'}
+linkedin : {'handle': 'in/eugenewan'}
+linkedin : {'handle': 'in/philippelimes'}
+linkedin : {'handle': 'in/damianchow'}
+linkedin : {'handle': 'pub/john-fearon/13/826/668'}
+linkedin : {'handle': 'pub/matt-kwa/35/697/263'}
+
+Displaying information relevant to Twitter:
+twitter : {'following': 711, 'followers': 758, 'bio': 'user support @thecarousell. learner of simplification. loves tech. got inspired to startup while at stanford and nus.', 'avatar': 'https://pbs.twimg.com/profile_images/508321832454221824/4xnxjml8.jpeg', 'id': 14700691, 'location': 'singapore', 'statuses': 2176, 'handle': 'siurui', 'site': 'http://carousell.com/siurui', 'favorites': 700}
+twitter : {'following': 80, 'followers': 118, 'bio': 'co-founder @tackthis', 'avatar': 'https://pbs.twimg.com/profile_images/2334477487/44f7r9tm0mfurwxdinrt.jpeg', 'id': 310862901, 'location': 'singapore', 'statuses': 147, 'handle': 'damian_chow', 'site': 'http://www.tackthis.com', 'favorites': 1}
+
+Displaying information relevant to Facebook:
+facebook : {'handle': '656723362'}
+facebook : {'handle': 'ivan.matov.1'}
+facebook : {'handle': 'siurui'}
+facebook : {'handle': 'damian.chowcy'}
+
+End Of Report

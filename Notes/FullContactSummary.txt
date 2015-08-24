@@ -1,0 +1,44 @@
+General information:
+Appearances of "LinkedIn: "60
+Appearances of "Twitter: "44
+Appearances of "Facebook: "28
+Displaying information relevant to LinkedIn:
+{'type': 'linkedin', 'username': 'garimarai', 'bio': 'mba candidate - class of december 2015 at insead, france', 'url': 'https://www.linkedin.com/in/garimarai', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'username': 'stephaniesantoso', 'url': 'https://www.linkedin.com/in/stephaniesantoso', 'typeid': 'linkedin', 'type': 'linkedin', 'typename': 'linkedin'}
+{'id': 'ivan-matov/21/11/486', 'type': 'linkedin', 'bio': 'civil engineer at vinci construction grands projets', 'url': 'https://www.linkedin.com/pub/ivan-matov/21/11/486', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'type': 'linkedin', 'username': 'preetikurani', 'bio': 'gemologist | sales excellence coach | jewellery appraiser', 'url': 'https://www.linkedin.com/in/preetikurani', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'type': 'linkedin', 'username': 'sanjnaparasrampuria', 'bio': 'founder | ceo at newcleus', 'url': 'https://www.linkedin.com/in/sanjnaparasrampuria', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'id': 'jay-shah/8/b99/959', 'type': 'linkedin', 'bio': 'head - presales at lodha group', 'url': 'https://www.linkedin.com/pub/jay-shah/8/b99/959', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'username': 'krissymo', 'url': 'https://www.linkedin.com/in/krissymo', 'typeid': 'linkedin', 'type': 'linkedin', 'typename': 'linkedin'}
+{'type': 'linkedin', 'username': 'oswaldyeo', 'bio': 'co-founder of glints', 'url': 'https://www.linkedin.com/in/oswaldyeo', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'type': 'linkedin', 'username': 'emmanuelallix', 'bio': 'founder & ceo art of click', 'url': 'https://www.linkedin.com/in/emmanuelallix', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'type': 'linkedin', 'username': 'derektrex', 'bio': 'co-founder @viddsee', 'url': 'https://www.linkedin.com/in/derektrex', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'type': 'linkedin', 'username': 'siurui', 'bio': "product at carousell (we're hiring!)", 'url': 'https://www.linkedin.com/in/siurui', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'id': 'michiel-wind/47/708/68', 'type': 'linkedin', 'bio': 'ceo at crystal horse investments pte ltd', 'url': 'https://www.linkedin.com/pub/michiel-wind/47/708/68', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'id': 'lin-hui/84/a19/4a8', 'type': 'linkedin', 'bio': 'chief editor', 'url': 'https://www.linkedin.com/pub/lin-hui/84/a19/4a8', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'type': 'linkedin', 'username': 'damianchow', 'bio': 'co-founder at paywhere pte ltd', 'url': 'https://www.linkedin.com/in/damianchow', 'typeid': 'linkedin', 'typename': 'linkedin'}
+{'id': 'john-fearon/13/826/668', 'type': 'linkedin', 'bio': 'founder at sugar.sg', 'url': 'https://www.linkedin.com/pub/john-fearon/13/826/668', 'typeid': 'linkedin', 'typename': 'linkedin'}
+
+Displaying information relevant to Twitter:
+{'id': '279671916', 'type': 'twitter', 'username': 'praveen951', 'following': 8, 'url': 'https://twitter.com/praveen951', 'typeid': 'twitter', 'followers': 6, 'typename': 'twitter'}
+{'id': '207228130', 'type': 'twitter', 'username': 'okardesler', 'following': 118, 'url': 'https://twitter.com/okardesler', 'typeid': 'twitter', 'followers': 88, 'typename': 'twitter'}
+{'id': '262630867', 'type': 'twitter', 'username': 'rubensnigo', 'following': 44, 'url': 'https://twitter.com/rubensnigo', 'typeid': 'twitter', 'followers': 29, 'typename': 'twitter'}
+{'id': '162352742', 'type': 'twitter', 'username': 'raigarima30', 'following': 373, 'typename': 'twitter', 'url': 'https://twitter.com/raigarima30', 'typeid': 'twitter', 'followers': 268, 'bio': 'that which appears bound to the deluded vision, just as the sun appears dark and gloomy to the fool of clouded sight, that ever-manifest aatmaan am i...'}
+{'id': '249569160', 'type': 'twitter', 'username': 'preetikurani', 'following': 219, 'typename': 'twitter', 'url': 'https://twitter.com/preetikurani', 'typeid': 'twitter', 'followers': 671, 'bio': 'zealous gemologist, seasoned orator, jewelry designer. gia (gg,pearls graduate,ajp). educator at gia for 5yrs, now luxury retail coach & consultant @gemographyx'}
+{'id': '15272035', 'type': 'twitter', 'username': 'darrellzhang', 'following': 1032, 'typename': 'twitter', 'url': 'https://twitter.com/darrellzhang', 'typeid': 'twitter', 'followers': 557, 'bio': 'entrepreneur. energy efficiency. home energy management. photovoltaics. renewables. triathlete. roadbiking. timetrialing. starbucks. caramel macchiato. :)'}
+{'id': '14700691', 'type': 'twitter', 'username': 'siurui', 'following': 718, 'typename': 'twitter', 'url': 'https://twitter.com/siurui', 'typeid': 'twitter', 'followers': 753, 'bio': 'user support @thecarousell. learner of simplification. loves tech. got inspired to startup while at stanford and nus.'}
+{'id': '2164588542', 'type': 'twitter', 'username': 'charifelansari', 'following': 13, 'url': 'https://twitter.com/charifelansari', 'typeid': 'twitter', 'followers': 2, 'typename': 'twitter'}
+{'id': '2945922205', 'type': 'twitter', 'username': 'thisispenroads', 'following': 298, 'typename': 'twitter', 'url': 'https://twitter.com/thisispenroads', 'typeid': 'twitter', 'followers': 314, 'bio': 'penroads is a social travel platform that connects travelers & locals around their destinations in real-time.'}
+{'id': '611528012', 'type': 'twitter', 'username': 'playwarestudios', 'following': 34, 'typename': 'twitter', 'url': 'https://twitter.com/playwarestudios', 'typeid': 'twitter', 'followers': 75, 'bio': 'we are a technology company based in singapore, developing games for learning, education technology solutions, serious games, mixed mode multimedia experiences.'}
+{'id': '310862901', 'type': 'twitter', 'username': 'damian_chow', 'following': 80, 'typename': 'twitter', 'url': 'https://twitter.com/damian_chow', 'typeid': 'twitter', 'followers': 116, 'bio': 'co-founder @tackthis'}
+
+Displaying information relevant to Facebook:
+{'url': 'https://www.facebook.com/10152835990598370', 'typeid': 'facebook', 'type': 'facebook', 'typename': 'facebook'}
+{'type': 'facebook', 'username': 'rubao', 'following': 857, 'url': 'https://www.facebook.com/rubao', 'typeid': 'facebook', 'followers': 857, 'typename': 'facebook'}
+{'url': 'https://www.facebook.com/10105761736580625', 'typeid': 'facebook', 'type': 'facebook', 'typename': 'facebook'}
+{'id': '889325244', 'type': 'facebook', 'username': 'ivan.matov.1', 'url': 'https://www.facebook.com/ivan.matov.1', 'typeid': 'facebook', 'typename': 'facebook'}
+{'id': '692831164', 'type': 'facebook', 'username': 'darrellzhang', 'following': 1422, 'url': 'https://www.facebook.com/darrellzhang', 'typeid': 'facebook', 'followers': 1422, 'typename': 'facebook'}
+{'username': 'siurui', 'url': 'https://www.facebook.com/siurui', 'typeid': 'facebook', 'type': 'facebook', 'typename': 'facebook'}
+{'id': '594510215', 'type': 'facebook', 'username': 'damian.chowcy', 'url': 'https://www.facebook.com/damian.chowcy', 'typeid': 'facebook', 'typename': 'facebook'}
+
+End Of Report

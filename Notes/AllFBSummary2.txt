@@ -1,0 +1,916 @@
+Information for 48 people:
+
+START OF PERSON:
+USERNAME : Janice Gan
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Jason Teo
+Location : Unknown
+Hometown : Singapore
+Friends : 270
+Married : Yes
+Followers : Unknown
+Education : 
+Schools : City University of New York
+Job : 
+Company : Standard Chartered
+Graduation : 2009
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Rubens Nig
+Location : Unknown
+Hometown : Unknown
+Friends : 1,142
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : INSEAD
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 1
+Sports : 4
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Ivan Matov
+Location : Unknown
+Hometown : Unknown
+Friends : 1,509
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : University of Technology Munich
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2000 - 2006
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : 
+Location : Unknown
+Hometown : Singapore
+Friends : 1,847
+Married : Unknown
+Followers : 279
+Education : Business Administration
+Schools : National University of Singapore
+Job : User Support
+Company : Carousell
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2009 - 2012
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Chow Cheong Yean (Damian Chow)
+Location : Unknown
+Hometown : Singapore
+Friends : Unknown
+Married : Unknown
+Followers : 24
+Education : 
+Schools : Nanyang Technological University, Singapore
+Job : Co-Founder, Director
+Company : PayWhere
+Graduation : 2008
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Julia Tan
+Location : Unknown
+Hometown : Unknown
+Friends : 926
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Grazyna Paczesna
+Location : Unknown
+Hometown : Grodzisk Mazowiecki
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Master's Degree
+Schools : Uniwersytet Warszawski
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 2
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Mie Mie Yong
+Location : Paris, France
+Hometown : Singapore
+Friends : 76
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Eliz Salvador Ramos
+Location : Unknown
+Hometown : Unknown
+Friends : 742
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Onur Kardesler
+Location : Copenhagen, Denmark
+Hometown : Alsancak, Izmir
+Friends : Unknown
+Married : Unknown
+Followers : 58
+Education : Unknown
+Schools : Unknown
+Job : Studies Master's Degree
+Company : INSEAD
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 3
+Music : 0
+Sports : 1
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Rubens Nig
+Location : Unknown
+Hometown : Unknown
+Friends : 1,142
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : INSEAD
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 1
+Sports : 4
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Stephanie Santoso
+Location : Fontainebleau, France
+Hometown : Jakarta, Indonesia
+Friends : Unknown
+Married : Unknown
+Followers : 631
+Education : Unknown
+Schools : Unknown
+Job : Former Buyer/Procurement Intern
+Company : DaimlerChrysler Corporation
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Ivan Matov
+Location : Unknown
+Hometown : Unknown
+Friends : 1,509
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : University of Technology Munich
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2000 - 2006
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Darrell Zhang Yiyang
+Location : Unknown
+Hometown : Singapore United Plantation, Singapore
+Friends : Unknown
+Married : Unknown
+Followers : 14
+Education : Technopreneurship
+Schools : National University of Singapore
+Job : Co-founder
+Company : Intraix
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2005 - 2010
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : 
+Location : Unknown
+Hometown : Singapore
+Friends : 1,847
+Married : Unknown
+Followers : 279
+Education : Business Administration
+Schools : National University of Singapore
+Job : User Support
+Company : Carousell
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2009 - 2012
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Chow Cheong Yean (Damian Chow)
+Location : Unknown
+Hometown : Singapore
+Friends : Unknown
+Married : Unknown
+Followers : 24
+Education : 
+Schools : Nanyang Technological University, Singapore
+Job : Co-Founder, Director
+Company : PayWhere
+Graduation : 2008
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Yolanda Boentoro
+Location : Beijing, China
+Hometown : Unknown
+Friends : 771
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : Capital Normal University
+Job : 
+Company : 
+Graduation : 2011
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Simon Landsheer
+Location : Bali, Indonesia
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : Mentor & Lead investor
+Company : Impiro and Director at Drift Dining and Bar
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 3
+END OF PERSON
+
+START OF PERSON:
+USERNAME : 
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 3
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Andrea Loh
+Location : Kuala Lumpur, Malaysia
+Hometown : Unknown
+Friends : 530
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Francesca Hongdiharto
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Frank Lee
+Location : Unknown
+Hometown : Unknown
+Friends : 104
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : Specialist in Prosthodontics
+Company : Smile Inc Dental Surgeons
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Meris Gomez
+Location : San Diego, California
+Hometown : Guadalajara, Jalisco
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 1
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Kenneth Jalil
+Location : Unknown
+Hometown : Singapore
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Real Estate Business
+Schools : Ngee Ann Polytechnic
+Job : Former Dummy Ammunition IC
+Company : Singapore Armed Forces Ammunition Command
+Graduation : Unknown
+Age : 24
+Schooling Years : 2008 - 2011
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Arti Aima Dikshit
+Location : Unknown
+Hometown : Unknown
+Friends : 459
+Married : Yes
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Michael Cho
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 1
+Sports : 1
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Lisa Dewi
+Location : Sanur, Bali
+Hometown : Klungkung, Bali, Indonesia
+Friends : 1,667
+Married : Unknown
+Followers : 467
+Education : 
+Schools : OCLD
+Job : Co founder
+Company : Upscale and Founder and Director at Neela
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2001 - 2003
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Lisa Dewi
+Location : Sanur, Bali
+Hometown : Klungkung, Bali, Indonesia
+Friends : 1,667
+Married : Unknown
+Followers : 467
+Education : 
+Schools : OCLD
+Job : Co founder
+Company : Upscale and Founder and Director at Neela
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2001 - 2003
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Denise Tjokrosaputro
+Location : Unknown
+Hometown : Unknown
+Friends : 541
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Nancy Gan
+Location : Unknown
+Hometown : Singapore
+Friends : 59
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : Royal College of Music, London
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 2759
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Meris Gomez
+Location : San Diego, California
+Hometown : Guadalajara, Jalisco
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 1
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Kenneth Jalil
+Location : Unknown
+Hometown : Singapore
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Real Estate Business
+Schools : Ngee Ann Polytechnic
+Job : Former Dummy Ammunition IC
+Company : Singapore Armed Forces Ammunition Command
+Graduation : Unknown
+Age : 24
+Schooling Years : 2008 - 2011
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Ivan Matov
+Location : Unknown
+Hometown : Unknown
+Friends : 1,509
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : University of Technology Munich
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2000 - 2006
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : 
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : 17
+Education : 
+Schools : Singapore Management University
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : 2009 - 2013
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Derek Tan
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : 100
+Education : Electrical and Computer Engineering
+Schools : National University of Singapore
+Job : 
+Company : 
+Graduation : 2009
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Bastiaan Hoogendoorn
+Location : Baarn
+Hometown : Culemborg
+Friends : 289
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : KLM
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 1
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Christian Rickerts
+Location : Unknown
+Hometown : Unknown
+Friends : 101
+Married : Yes
+Followers : Unknown
+Education : Political Science
+Schools : Free University of Berlin
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Neo Chee Yong
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Neo Chee Yong
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Neo Chee Yong
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+START OF PERSON:
+USERNAME : Neo Chee Yong
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+END OF PERSON
+
+END OF FILE
+

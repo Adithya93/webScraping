@@ -1,0 +1,68 @@
+1) Run stage1.py to get 9 outputs. Ignore the first 2, take note of the next 7:
+	1.1) Custom HTML Document for companies info
+	1.2) LinkedIn Emails txt file
+	1.3) LinkedIn IDs txt file
+	1.4) FB Emails txt file
+	1.5) FB IDs txt file
+	1.6) Twitter Emails txt file
+	1.7) Twitter IDs txt file
+
+2) Get Company DF
+	2.1) Put filename of [1.1) Custom HTML Document for companies info] in between the quotes ('') after (var page = ) in localstream.js and run 
+	'node localstream.js' on Node.js
+
+	2.2) Go to R, source makeCompDF.R (also source ActivityInfluence.R and saveGeoCodes.R) and enter "COMP <- getComp('http://localhost:3050/')" on R command line
+	
+	<Data Frame for Clearbit companies info is now saved in R with the name COMP>
+
+3) Scrape FB & LI pages, make Twitter DF (Concurrent)
+	(a) 1. Copy lists from [1.2) LinkedIn Emails txt file, 1.3) LinkedIn IDs txt file, 1.4) FB Emails txt file and 1.5) FB IDs txt file] into respective quotes ('')
+	inside importLIFB.js. 
+	
+	(a) 2. Choose names for the txt outputs containing the HTML of FB pages and LI pages
+
+	(a) 3.	Run 'node importLIFB.js' on Node.js
+
+	(b) While (a) is happening, go to RStudio and source twitterMaster.R. To be safe, also save the files inside the GitHub folder 
+	USETHIS/saveTheseB4RunningtwitterMaster.R (The files are ['tryTimeline.R', 'tryTimelines.R', 'extractTweets.R', 'makeTwitterDF.R' and 'reformTwitter.R']).
+	Enter 'TW <- twitterMaster(<name of 1.7) Twitter IDs txt file>, <name of 1.6) Twitter Emails txt file>, <name of csv file you want to save TW data frame to>)'
+	in R command line
+	
+	<Data Frame for Twitter information is now saved in R with the name TW>
+
+	NOTE: IF MORE THAN 180 Twitter handles are found, split Twitter Emails/IDs into batches and run them batch by batch every hour, to keep within API Rate Limit
+
+4) Parse output of 3) (a) LinkedIn and FB profile HTMLs in Beautiful Soup to obtain summary reports (not important) and Custom HTML Documents
+	4.1) Identify the 2 output files from importLIFB.js (with names given in 3) (a) 2.) and ensure it is in the folder the python scripts are pointing to
+	
+	4.2) Run linkedInfo3.py on the LinkedIn file mentioned in 4.1). Save the LinkedIn summary file with any name, but take note of custom HTML document name
+
+	4.3) Run fbInfo2.py on the FB file mentioned in 4.1). Save the FB summary file with any name, but take note of custom HTML document name
+
+	<Custom HTML documents for LinkedIn and Facebook have now been made>
+
+5) Making LI & FB DFs
+	5.1) Ensure that (copies of) the custom HTML documents from 4.2) and 4.3) are in the same folder as localStream.js
+
+	5.2) Change name within quotes ('') in localStream.js to name of LI Custom HTML document in 4.3) and run 'node localStream.js' on Node.js
+
+	5.3) Go to RStudio, source makeLIDF.R and enter "LI <- makeLIDF('http://localhost:3050/')" in the R command line
+
+	5.4) Repeat steps 5.1) to 5.3) for the FB custom HTML document
+
+	<LinkedIn and Facebook Data Frames have now been made>
+	
+	
+6) Integration and Imputation
+	6.1) Go to RStudio and source Master.R. To be safe, also source all the files mentioned in the GitHub folder USETHIS/saveTheseB4RunningMaster.R
+	[The files are ActivityInfluence.R, chooseFeatures.R, compositeScore.R, guess ExpAge.R, inferEduSal.R, joinSocMeds.R, numProfs.R and saveGeoCodes.R]
+
+	6.2) Enter "finalDF <- getAll(LI, TW, FB, COMP)" on R command line
+
+	FINAL DATA FRAME HAS NOW BEEN MADE, WITH 76 FEATURES	 
+
+
+
+
+	
+

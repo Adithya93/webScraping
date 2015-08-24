@@ -1,0 +1,420 @@
+Information for 32 people:
+
+START OF PERSON:
+FULL NAME : Chansopheak Keng
+TITLE : --
+LOCATION : Cambodia
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 3connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Anita Sheard
+TITLE : Owner, Homemaker
+LOCATION : Singapore
+INDUSTRY : Food & Beverages
+CURRENT COMPANY : Homemaker
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : James Gan
+TITLE : Business Performance Manager at PEXA
+LOCATION : Melbourne Area, Australia
+INDUSTRY : Information Services
+CURRENT COMPANY : Callscan Australia
+CONNECTIONS : 153connections
+PAST COMPANIES : Property Exchange Australia Ltd (PEXA), VicRoads, Prometric
+EXPERIENCE :          Flexible in travelling interstate or overseas on business needs, and willing to relocate to other countries (main preference will be Asia - Singapore, Hong Kong and China) for work purposes. Specialise in workflow and process analysis and management, new call centre setup, on-going call centre management and operation, long term and short term workforce planning, call trend analysis, executive reporting and business continuity management.
+EDUCATION : RMIT UniversityTelecommunication Engineering & Computer Science
+SKILLS : Workforce Planning, Forecasting, Project Management, Call Center Development, Resource Management, Business Continuity..., People Development, Strategic Communications, Career Development..., Workflow Analysis
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Ann Min
+TITLE : --
+LOCATION : Singapore
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 2connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Paczesna Grazyna
+TITLE : Sinnpol Trading Private Limited
+LOCATION : Singapore
+INDUSTRY : Consumer Services
+CURRENT COMPANY : Sinnpol Trading Private Limited
+CONNECTIONS : 64connections
+PAST COMPANIES : Unknown
+EXPERIENCE : www.sinnpol.com.sg / www.galeriabasiapaczesna.com
+EDUCATION : University of WarsawMaster of Business Administration (M.B.A.)
+SKILLS : Strategic Planning, Entrepreneurship, New Business Development, Small Business
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Vandena Bharwani
+TITLE : Business Development Manager in Anotin Holdings
+LOCATION : Surabaya Area, East Java, Indonesia
+INDUSTRY : Executive Office
+CURRENT COMPANY : Brand Connexxion
+CONNECTIONS : 164connections
+PAST COMPANIES : Brand Connexxion, ACP Magazines- Singapore, PD. Bazaar Jakarta
+EXPERIENCE : BrandConnexxion is an Events Management, Branding, Advertising, Marketing and Public Relations consultancy dedicated to unearthing fresh, creative ideas that will put the spotlight on your organisation to enhance recognition and your bottomline. Our methods may be unconventional, but it's designed to make people sit up and take notice of you.    By email
+EDUCATION : Raffles Education CorporationB.A / BDeS, Fashion marketing and management
+SKILLS : Fashion, Market Research, Marketing, Public Relations, Social Media Marketing, Event Management, Photoshop, Marketing Communications, Microsoft Office, Retail, Microsoft Word, Events Organizing, Event Planning, Promotions, Word, PowerPoint
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Jun (William) Jiang
+TITLE : Asset Management Analyst at China Insurance
+LOCATION : Xicheng District, Beijing, China
+INDUSTRY : Insurance
+CURRENT COMPANY : China Insurance
+CONNECTIONS : 67connections
+PAST COMPANIES : China Insurance, National University of Singapore, Foxconn
+EXPERIENCE : 1. Searched for investing opportunities through networking with financial institution 2. Consolidated feasibility report for investment projects in the area of real estate 3. Designed transaction frame and promoted project by coordinating trust, audit and risk management departments 4. Updated the status and followed the progress of project after investment  1. UAV project: model and optimize Unmanned Aerial Vehicle routing plans 2. Propose Tabu Search and code in Visual Studio C++ 3. Conduct experiments and include the results in the thesis 1. Internship in the Computer Division 2. Propose improvement scheme for the production line 3. Compete with other proposals from other divisions 1. Propose possibilites in the area of UAV research 2. Coordinate team members and arrange group meeting 3. Model an optimization problem 4. Raise and code algorithms 5. Conduct experiments Scholarship for Top 3 in the class Scholarship for Top 10 in the class Research Scholarship for PhD candidate Jiang, J., Ng, K. M., Poh, K. L., & Teo, K. M. (2014). Vehicle routing problem with a heterogeneous fleet and time windows. Expert Systems with Applications, 41(8), 3748-3760. Ng, K. M., Jiang, J., Peng, R., Poh, K. L., & Teo, K. M. (2011, December). Reliability of surveillance mission with unmanned aerial vehicles. In Industrial Engineering and Engineering Management (IEEM), 2011 IEEE International Conference on (pp. 1554-1557). IEEE. Jiang, J., & Ng, K. M. (2011, August). Priority-based routing of unmanned combat aerial vehicles. In Defense Science Research Conference and Expo (DSR), 2011 (pp. 1-4). IEEE. jiangjunxy@msn.com
+EDUCATION : National University of SingaporeDoctor of Philosophy (PhD), Operations Research
+SKILLS : Industrial Engineering, Optimization, Linear Programming, Visual C++, Mathematical Modeling, Formulation, Convex Optimization, Heuristics, Tabu Search, Programming, Vehicle Routing, Project Management, Asset Management, 5S, Lean Manufacturing, Statistics, C++, Simulations, Matlab, Data Mining, Data Analysis, Algorithms, Operations Research
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Ritesh Bansal
+TITLE : Kams/Comex/Agriex
+LOCATION : Singapore
+INDUSTRY : Import and Export
+CURRENT COMPANY : Unknown
+CONNECTIONS : 147connections
+PAST COMPANIES : Unknown
+EXPERIENCE : Overall Management of the Company. Overall Management of the company.
+EDUCATION : BRCM College of Business AdministrationBachelor's Degree, Finance & Marketing
+SKILLS : Entrepreneurship, Operations Management, Finance & Marketing, Commodity Markets, Corporate Social..., Export-Import, Financial Planning, Long-term Customer..., Public Speaking, Quality Assurance
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : A Surindhara
+TITLE : Director at The Waterside Pte Ltd
+LOCATION : Singapore
+INDUSTRY : Hospitality
+CURRENT COMPANY : Unknown
+CONNECTIONS : 53connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Judy Chak
+TITLE : Snr Sales Mgr Hospitality
+LOCATION : Singapore
+INDUSTRY : Hospitality
+CURRENT COMPANY : Fullerton Bay Hotel
+CONNECTIONS : 32connections
+PAST COMPANIES : Marina Bay Sands, Fullerton Bay Hotel, Meritus Mandarin Hotel
+EXPERIENCE : - Develop a substantial corporate, and meetings client base for the hotel at MBS. - Established good client relationship with top corporate accounts and major Multi-National Corporations MNCs' global accounts. - Promote & Sell the hotel convention & meeting facilities (Key accounts contracting & bidding for major conferences. - Sales Calls & Presentation to Corporate companies, Multi-National Corporations (MNCs), Convention & Exhibition companies, Meeting Planners, Professional Conference Organisers (PCO), Destination Marketing companies (DMCs). - Work closely with Singapore Tourism Board, NGOs and Associations in the region to bid for Congress, Conventions meetings and incentive groups for MBS. - Handle sales processes that include sales call, sales presentation, site inspection, site visit, to negotiation up to closing of the deal contracting. - Oversee the sales and business development and strategic partnership matters with clients. - Execute appropriate steps to close sales and establish acquisition of corporate accounts & meetings, incentive, conventions accounts. - Other sales related activities like entertainment, overseas sales trip, trade shows. Work with corporate companies accounts, multi national companies MNCs accounts, Luxury Brands companies etc  Duties include sales, liaison and manage special events, F&B events from clients above. Execute Sales activities that include sales calls, site inspection, entertainment, sales negotiation etc; Sales administration from sales proposals to contracts and issuing banquet event orders  Menu planning and liaise with all departments internally to execute a successful event for the clients  New Marketing Director created a new position MICE Snr Sales Manager - to tap on to the MICE (Meetings, Incentives, Conferences & Exhibition) sector. As previously the hotel mainly handle travel agencies and corporate businesses. - Established and built the entire MICE client base for the hotel. - Duties include sales to Incentive Houses, Conference & Exhibition Organisers, Corporate companies, Associations, Meeting Planners, Professional Conference Organisers (PCOs), Destination Marketing Companies (DMCs), NGOs and Singapore Tourism Board  - Handles Sales processes like sales call, sales trip, site visits, site inspections - Other sales related activities like attending tradeshows, sales presentations to sales proposals and contracting.  
+EDUCATION : Saint's Andrew Jr College & Ecole Hotellere de la SSH LausanneHigher Diploma in Hotel Management, Hotel/Motel Administration/Management, Higher Diploma
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Kori Millar
+TITLE : Manager at Resorts World Sentosa
+LOCATION : Singapore
+INDUSTRY : Leisure, Travel & Tourism
+CURRENT COMPANY : Unknown
+CONNECTIONS : 40connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Yahn Adam
+TITLE : www.yahnadam.com
+LOCATION : Singapore
+INDUSTRY : Apparel & Fashion
+CURRENT COMPANY : Yahn Adam
+CONNECTIONS : 198connections
+PAST COMPANIES : Unknown
+EXPERIENCE : We create jewellery with a story; offering Art and ideas to people who treasure both. Inspired by childhood memories and fueled by the pursuit of happiness; the collection is designed for the undeterred showstoppers and the fearless head-turners. We focus on balancing the identities of the opposites; femininity against masculinity, Light versus Darkness. Thus, this infuses edgy and mostly androgynous designs, which gives the label a defining character. Eight up-and-coming designers from Singapore, Malaysia, Indonesia and Thailand, mentored and judged by the editors of Harper's BAZAAR Southeast Asian editions in an inaugural regional competition to find fashion's next best thing. Winner of Sembonia's Bag My Style contest where his winning bag design was sold as part of Sembonia's Spring/Summer 2011 collection. The exhibition showcases the works of 8 selected artists across various disciplines. It is a collage of impactful, exaggerated forms built in to a social commentary of contemporary notions of beauty. For further inquiries, kindly contact yahn@yahnadam.com
+EDUCATION : Temasek Polytechnic (School of Engineering)Diploma, Intelligent Building Technology
+SKILLS : Fashion, Art, Fashion Design, Textiles, Styling, Photoshop, Art Direction, Apparel, Sewing, Jewelry Design, Fashion Illustration, Retail, Illustration, Trend Analysis, Photography, Illustrator, jewellery design, Bag design, Fashion Shows, Contemporary Art, Merchandising, Mood Boards
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Jacqueline Enmaru
+TITLE : Admin & Finance manageress at Enmaru Tire
+LOCATION : Singapore
+INDUSTRY : Automotive
+CURRENT COMPANY : Enmaru Tire
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Tan Catherine
+TITLE : Senior Life Planner
+LOCATION : Singapore
+INDUSTRY : Insurance
+CURRENT COMPANY : Unknown
+CONNECTIONS : 16connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Eliz Ramos
+TITLE : Independent Design Professional
+LOCATION : NCR - National Capital Region, Philippines
+INDUSTRY : Design
+CURRENT COMPANY : Unknown
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Lleyton Abad
+TITLE : Student at MDIS
+LOCATION : Singapore
+INDUSTRY : Hospitality
+CURRENT COMPANY : Unknown
+CONNECTIONS : 0connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : MDIS
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Rita Tan
+TITLE : --
+LOCATION : Singapore
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Elly Konjkav
+TITLE : Student at University of London
+LOCATION : Singapore
+INDUSTRY : Law Practice
+CURRENT COMPANY : Unknown
+CONNECTIONS : 13connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : University of London
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Ananda Ariesta
+TITLE : FX Electronic Markets Asia at BNP Paribas
+LOCATION : Singapore
+INDUSTRY : Banking
+CURRENT COMPANY : Unknown
+CONNECTIONS : 389connections
+PAST COMPANIES : UBS Investment Bank
+EXPERIENCE : I spent few years working together with Mayur in UBS. His problem- solving and technical skills were most helpful when dealing with issues in a fast-moving FX business. His great personality and positive attitude are also his greatest assets .
+EDUCATION : Monash UniversityBachelor, Computer Science
+SKILLS : FX Options, Foreign Exchange, Trading, Electronic Trading, Trading Systems, FX trading, Options, Bloomberg, Currency, Technical Analysis, Commodity, Money Market, CMFAS 1A Rules and...
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : sindy lo Wang
+TITLE : --
+LOCATION : Indonesia
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Fiona Hoang
+TITLE : Stefan Diamonds
+LOCATION : Perth Area, Australia
+INDUSTRY : Luxury Goods & Jewelry
+CURRENT COMPANY : Unknown
+CONNECTIONS : 137connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : Sales, Customer Service, Merchandising, Fashion, Marketing, Luxury Goods, Retail, Marketing Strategy, Negotiation, Microsoft Office, New Business Development, Microsoft Word, PowerPoint, Visual Merchandising, Business Strategy, Product Development
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Arti Dikshit- Stall
+TITLE : --
+LOCATION : Singapore
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Lavina Narain
+TITLE : --
+LOCATION : Spain
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Daniel Lumban Tobing
+TITLE : --
+LOCATION : Indonesia
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Lisa Dewi
+TITLE : Owner/Director di Neela Furniture Manufacturer
+LOCATION : Indonesia
+INDUSTRY : Design
+CURRENT COMPANY : Neela Furniture Manufacturer
+CONNECTIONS : 79connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : WM L
+TITLE : Independent Computer Software Professional
+LOCATION : Singapore
+INDUSTRY : Computer Software
+CURRENT COMPANY : Unknown
+CONNECTIONS : 0connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Chanise Lee
+TITLE : Consultant
+LOCATION : Singapore
+INDUSTRY : Marketing and Advertising
+CURRENT COMPANY : The Facade Associates
+CONNECTIONS : 396connections
+PAST COMPANIES : LI TV ASIA, 3-Three Consulting Pte Ltd, Lexicon
+EXPERIENCE : Exclusive media representative for Surface Asia & Dwell Asia & another 200 magazine titles in Asia... Email address: chanise.lee@gmail.com
+EDUCATION : Thames Business SchoolDiploma in Business Adminstrative, Business Administrative
+SKILLS : Advertising, Marketing Communications, Marketing Strategy, Digital Marketing, Media Planning, Marketing, Social Media Marketing, Event Management, Magazines, Integrated Marketing, Online Advertising, Social Media, Business Development, Brand Management, Digital Strategy, Public Relations, Sponsorship, Media Relations, Direct Marketing, Retail, Budgets, Public Speaking, Project Management, Customer Service
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Denise Tjokrosaputro
+TITLE : Publisher at Nylon Singapore
+LOCATION : Greater Jakarta Area, Indonesia
+INDUSTRY : Publishing
+CURRENT COMPANY : August Man Indonesia
+CONNECTIONS : 500+connections
+PAST COMPANIES : PT. Keris Gallery, Nine West Group
+EXPERIENCE : 
+EDUCATION : The George Washington University - School of BusinessMBA, Finance & Investment
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Duane Thia
+TITLE : Director / Owner at 3-Three Consulting & 3-Three Affaires...
+LOCATION : Singapore
+INDUSTRY : Marketing and Advertising
+CURRENT COMPANY : Global Magazines Pte Ltd, subsidiary of Yellow Pages Singapore
+CONNECTIONS : 500+connections
+PAST COMPANIES : Asian Culture Enterprise (S) Ltd, Ink Publishing, Global Magazines Pte Ltd, subsidiary of Yellow Pages Singapore
+EXPERIENCE : 3-Three Affaires - We breath Marketing, Communications, Prospecting & Events. Talk to us to see how we can be your extended marketing arm. 3-Three Consulting Pte Ltd was incorporated on 3 September 2010. We offer Media Spaces, Media Services and Consulting.  Media Spaces - we represent several media owners around the world, from magazines to papers to Out of Home to airplanes and websites. Namely, Heart-Media (ART Republik, FORM, ROOM), SC Global Magazine, MPG Media (Surface Asia, Dwell Asia, Expression Indonesia, LivingETC Indonesia and InDesign Indonesia); Level 8 (Outdoor Media).  Media Services - PR, Marketing & Events...It has happened....at 3-Three Affaires Pte Ltd  Consultancy - Media Research, Media Planning, survey, etc. - ACES, subsidiary of The Old Parliament House (TOPH), organise of Spotlight Singapore in Cape Town 2011, an Arts, Culture and Business Exchange programme which started in 2006.  - Spotlight Singapore has exchanges with Hong Kong, Japan and Moscow since 2006.  - Responsible for organising Business Networking sessions to bring Businesses to South Africa, Cape Town in March 2011; with Raintree Solutions (partner in Cape Town)  - Responsible for sponsorship and has succesfully garnered sponsorship from hospitality to government sectors - Singapore Airlines, Taj Hotel, WESGRO, Accelerate Cape Town, Mayor's Office, Mandela Rhodes, Ong & Ong Architect, AR43 Architect etc.  - 160 people from Arts, Tertiary Education and Businesses from fashion to architects to media and design, Green Companies, etc were in Cape Town from 13-19 March 2011. Now, this is what I call Out of the Box (Print) advertising. - Strategise sales formulae to increase advertising revenue and to expand current portfolio of magazine, WEALTH. - Launched Robb Report Singapore, a US Ultra-rich Luxury Magazine, in Singpaore on 2nd Dec 2008. - To launch Robb Report in Malaysia, Indonesia, Brunei and the Philippines from 2009. - To expand WEALTH into regional markets, alongside with Robb Report.       An international exchange programme tying together business and different cultures Asia's 1st Design Magazine. All things Design for the affluent and design community. Design in Architecture, Interior, Products, Fashion, Timepieces...Lifestyle Design. Asia's 1st Home Magazine for the discerning Home lovers and owners in Asia.  One of the TOP US licensed title. SC Global is a leading developer of up-market residences of rare and exquisite design quality, with an emphasis on refinement and a contemporary definition of the premium lifestyle. Fang Mo shows positive attitude in wanting to learn and excel in her work-though she has no prior experience in advertising sales. She has also shown herself to be reliable in executing tasks given to her too. Renee knows her role well and has gone beyond her call of duty too, making sure the event in Cape Town was properly executed. In the event we needed last minute arrangement, she is there to assist too.   Though it was stressful having to deal with more than 100 business people, she was able to keep her calm and make sure Spotlight Singapore in Cape Town was a success.  ...more Anyone looking for Smart, Excellent Customer Relationship and Follow-Up skills, Fadhilah is one person i would strongly recommend. She is resourceful and gets the work done.   She will be someone i will want to have in a team as she is team player too. A guy that will never say:"Cannot"! Being new in the advertising industry, John has done well in learning the ropes quickly and effectively. Always ready for changes, he has moved from a full-time sales roles to a newly created sales journalist role. His recent promotion speaks of his ability and adaptability.   A great guy to work with !
+EDUCATION : Chartered Institute of MarketingPost Diploma, Sales & Marketing
+SKILLS : Advertising, Public Relations, Marketing Strategy, Event Management, Marketing, Marketing Communications, Publishing, Media Planning, Digital Marketing, Sponsorship, Business Development, Magazines, Strategic Partnerships, Management, Social Media Marketing, Public Speaking, Brand Management, Lead Generation, Brand Development, Online Advertising, Relationship Marketing, Advertising Sales, Digital Strategy, Integrated Marketing, Online Marketing, Digital Media, New Media, Corporate Branding, Email Marketing, SEM, Market Research, Strategic Public..., Marketing Management, Mobile Marketing, Copywriting, Content Strategy, B2B Marketing, Media Relations, Brand Awareness, Creative Industries, Private Events, Direct Marketing, Corporate Communications, Creative Direction, Creative Strategy, Business Intelligence, Creative Arts, Visual Arts, Media Buying, Launched several...
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Elizabeth Shelton-Ng
+TITLE : Business Development Manager at Goview Singapore
+LOCATION : Singapore
+INDUSTRY : Marketing and Advertising
+CURRENT COMPANY : Go View Singapore
+CONNECTIONS : 44connections
+PAST COMPANIES : Aardvark Communications, Bermuda
+EXPERIENCE : 
+EDUCATION : Oklahoma City UniversityBachelor of Arts, Mass Communications
+SKILLS : Advertising, Social Media, Event Management, Account Management, Sales, Business Strategy, Marketing Communications, Public Relations, Selling
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Nicole Kow
+TITLE : Marketing Manager | Writer | Photograher (Architectural)
+LOCATION : Singapore
+INDUSTRY : Construction
+CURRENT COMPANY : Through My Looking Glass
+CONNECTIONS : 68connections
+PAST COMPANIES : Immedius Press, Gimbal Capital Pte Ltd, Nic & Wes Builders Pte Ltd
+EXPERIENCE : A domain of expression through words and images. Through My Looking Glass is a blog featuring DIYs, fashion and lifestyle elements reflecting on my multi-faceted interests.     
+EDUCATION : Oklahoma City UniversityBachelor of Arts (BA), Mass Communication/Media Studies
+SKILLS : Editing, Social Media, Blogging, Advertising, Digital Photography, Newsletters, Writing, Microsoft Office, Photoshop, CSS, HTML, Digital Marketing, Copywriting, Photography
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Timothy Lee
+TITLE : Manager at TETRA Fire Engineering Pte Ltd
+LOCATION : Singapore
+INDUSTRY : Shipbuilding
+CURRENT COMPANY : TETRA Fire Engineering Pte Ltd
+CONNECTIONS : 99connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : University of NewcastleEngineering
+SKILLS : 
+END OF PERSON
+
+END OF FILE
+

@@ -1,0 +1,446 @@
+Information for 34 people:
+
+START OF PERSON:
+FULL NAME : Neo Chee Yong
+TITLE : Research Assistant at National Institute of Education
+LOCATION : Singapore
+INDUSTRY : Higher Education
+CURRENT COMPANY : National Institute of Education
+CONNECTIONS : 77connections
+PAST COMPANIES : Nanyang Technological University
+EXPERIENCE : My research involves discovering underlying patterns in the use of words, to determine in a quantitative manner, changes in the way gender is portrayed. Current methods being employed include clustering words and forming networks based of Parts of Speech tagging, clustering and community finding to group sentiment of words together.  During my time here, I have also designed and conducted a class on agent based modeling using Schelling's model as a basis. Teaching of Undergraduates Developing of Material for Undergraduates
+EDUCATION : Nanyang Technological UniversityBachelor of Science (BS), Physics and Applied Physics
+SKILLS : Python, Data Analysis, Statistics, Research, Computational..., Analysis, Project Management, Project Planning, Program Management, Microsoft Excel, Microsoft Office, OS X, Ubuntu, Proposal Writing, Sustainability
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Beini Zhang
+TITLE : Master in Information Studies, NTU
+LOCATION : Singapore
+INDUSTRY : Information Technology and Services
+CURRENT COMPANY : Wuhan Committee of Chinese People's Politic Consultative Conference
+CONNECTIONS : 58connections
+PAST COMPANIES : DewTouch Innovations Pte Ltd, Wuhan Committee of Chinese People's Politic Consultative Conference, Faurecia
+EXPERIENCE :             
+EDUCATION : Nanyang Technological UniversityMaster's Degree, Information Science/Studies, 3.95
+SKILLS : Java, PHP, C++, SQL, Testing, SPSS, NodeXL, Data Analysis, Microsoft Office, Data Mining, Requirements Analysis, Microsoft Excel, Teamwork, Microsoft Word, PowerPoint, Business Analysis, JavaScript, Leadership, Business Strategy, Social Media, Python
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : praveen kumar
+TITLE : Data Scientist Intern at Hewlett-Packard
+LOCATION : Singapore
+INDUSTRY : Information Technology and Services
+CURRENT COMPANY : Unknown
+CONNECTIONS : 500+connections
+PAST COMPANIES : Hewlett-Packard, Tata Consultancy Services
+EXPERIENCE : 
+EDUCATION : National University of SingaporeMaster's Degree, Business Analytics
+SKILLS : Java, R, C, C++, IBM SPSS STATISTICS, IBM SPSS MODELER, JCL, COBOL, DB2, DBMS, IBM SOA, Microsoft Excel
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Xin ZHOU
+TITLE : Bio-statistician at Vela Diagnostics
+LOCATION : Singapore
+INDUSTRY : Medical Devices
+CURRENT COMPANY : Unknown
+CONNECTIONS : 195connections
+PAST COMPANIES : National University of Singapore
+EXPERIENCE :  
+EDUCATION : National University of SingaporeMaster of Science (M.Sc.), Statistics
+SKILLS : Statistics, Data Analysis, Medical Devices, SAS, R, Biostatistics, SPSS, JMP, Statistical Data..., Stata, VBA, Linux, IVD, Statistical Modeling, Research Project..., Design of Experiments, FDA, SQL, Statistical Software, Statistical Programming, Statistical Consulting, Regression Analysis, Public Health, Microsoft Excel, Microsoft Word, Microsoft Office, PowerPoint, Customer Service, Project Management, PCR, Life Sciences, Research, R&D
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : 
+TITLE : MBA Candidate at INSEAD
+LOCATION : Singapore
+INDUSTRY : Venture Capital & Private Equity
+CURRENT COMPANY : Unknown
+CONNECTIONS : 500+connections
+PAST COMPANIES : Wallept, Microsoft Corporation
+EXPERIENCE : Wallept offers effective digital loyalty program, game changing Point of Sale experience and an unique customer experience tool for chain stores.  Wallept is the participant of Startupbootcamp Mobility Copenhagen 2013. onur@wallept.com
+EDUCATION : INSEADMaster of Business Administration (MBA)
+SKILLS : Start-ups, Mobile Applications, Cloud Computing, Mobile Technology, Product Management, Business Development, Business Strategy, Entrepreneurship, Strategy, Marketing, E-commerce, Marketing Strategy, Web Applications, New Business Development, Microsoft Office
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Ekaterina Kochetygova
+TITLE : Marketing | Strategy | Business Development Professional
+LOCATION : Geneva Area, Switzerland
+INDUSTRY : Management Consulting
+CURRENT COMPANY : ELNA. Engineering Systems
+CONNECTIONS : 414connections
+PAST COMPANIES : Google, Oslo Business Region, ELNA. Engineering Systems
+EXPERIENCE : Please don't hesitate to contact me via ekaterina.kochetygova@insead.edu
+EDUCATION : INSEADMaster of Business Administration (MBA)
+SKILLS : Marketing Strategy, Project Management, Strategic Consulting, Business Development, Business Process..., Leadership, Negotiation, P&L Management, Cross-functional Team..., Financial Analysis, Marketing Research, Solution Selling, Business Strategy, Change Management, Digital Marketing, Partnerships, Account Management, Business Analysis, Procurement, Competitive Analysis, Sales, Budget Management, Team Building, Marketing Communications
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Rubens Nigoghossian
+TITLE : MBA Candidate at INSEAD - Class of December 2015
+LOCATION : Singapore
+INDUSTRY : Venture Capital & Private Equity
+CURRENT COMPANY : Capital Eight
+CONNECTIONS : 500+connections
+PAST COMPANIES : 
+EXPERIENCE : At Excelia, a restructuring and turnaround management company, I co-led a team of 6 people through the execution of multiple projects, including M&A transactions (both buy and sell-side), mezzanine and debt funding. Additionally, I acted as Business Controller in different clients, assuming a management position during turnaround projects.  At Excelia, a restructuring and turnaround management company, I was responsible for the startup of the Corporate Finance and Strategy practice, developing strategic planning and acting as financial advisor in M&A transactions (both buy and sell-side), mezzanine and debt funding. Additionally, I acted as Business Controller in different clients, assuming a management position during turnaround projects. At Capital Eight I developed Chinese market entry strategies and evaluated inorganic expansion plans to international companies investing in China. I also wrote articles on investment banking-related issues, prepared presentations with overviews of multiple industries and client pitches. I also developed critical analysis of business plans for PE and VC funding in different sectors. Worked on 10+ Mergers & Acquisitions processes across different industries, as retail, IT, agribusiness, tractors & implements & others, in a total of more than US$ 100 MM involved; Experience in Corporate Finance mid-cap deals, including market research, elaboration of business plans, development of economic-financial valuation models, negotiation with investors (investment funds & strategic investors, both national & international) & due diligence processes.
+EDUCATION : INSEADMaster of Business Administration (M.B.A.)
+SKILLS : Mergers & Acquisitions, Business Planning, Corporate Finance, Strategy, Valuation, Business Strategy, Due Diligence, Financial Analysis, Business Valuation, Mergers, Competitive Analysis, Strategic Planning, Management, Business Development, Lean Startup, Restructuring, Start-ups, Financial Modeling, Entrepreneurship, Team Leadership, Investments, Negotiation, Strategic Financial..., Analysis, New Business Development, Market Research, Economics, Finance, Venture Capital, Management Consulting, Strategic Partnerships, Marketing Strategy, Private Equity
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Garima Rai
+TITLE : INSEAD MBA / Marketing Professional - Growth Hacker, Digital / Social Media & Content Marketer, Go-to-market Strategist
+LOCATION : Paris Area, France
+INDUSTRY : Computer Software
+CURRENT COMPANY : Ultrasonic Instrumentations Pvt. Ltd.
+CONNECTIONS : 500+connections
+PAST COMPANIES : Newgen Software Technologies, Ultrasonic Instrumentations Pvt. Ltd., Intrasphere Technologies
+EXPERIENCE : Own branding, product marketing, content management, and social media marketing efforts to ensure consistency in voice and cultivate a referral network; Design, execute, and monitor demand generation marketing campaigns to grow sales pipeline and encourage product adoption; Develop and implement strategic marketing campaigns in conjunction with Sales, Channels, Product Teams, and external influencers such as user groups, industry trade associations, and analyst organizations. Executed Sales Coordination and Marcom operations including lead assignment, content writing and editing for corporate brochures, sales tools, direct mail pieces, advertising copies for newspapers and technical periodicals; Researched and acquired lists for direct mail efforts and ensured distribution of mails to targeted market segments in an efficient and timely manner; Delivered dynamic, engaging presentations at trade shows; Performed extensive market research to gauge market trends, analyze competition, and identify potential customers; Developed and acquired database for marketing campaigns; Created, reviewed, and updated web content; Performed SEO and executed SEM campaigns to drive web traffic - organic as well as paid adverts; Wrote case studies, newsletters, and product brochures; Role: Marketing Communication & PR  Developed succinct content for company websites, white papers, business collaterals, product datasheets, case studies, and advertising copy; Responded to media queries and managed relationship with PR agency; Wrote press release copies and newsletters; Planned and executed internal communication activities; Recognized for efficiently handling the role of Joint Secretary of the Communications Committtee of Newgen's Employee Welfare Society during the Year 2007. The two qualities that make Sanchita a perfect HR professional are her empathetic and supportive demeanor, and commitment to getting work done. As she was the HR representative for the Marketing function, I interacted with Sanchita regularly for new recruitment, defining KRAs, KPIs, team appraisals, training, etc. I was extremely impressed with her multi-tasking ability,...more   Subrata always comes across to people as a helpful and amiable individual. Whenever I needed his help to sort issues related to tax, ITR, PF, investments, etc., during and even after my tenure with Intrashpere, he readily provided his expert guidance and support. He is truly a people's person. Have known Darshak for almost 3 years now, and found him to be a helpful co-worker, and a result-oriented and focused professional. Darshak boasts an amiable demeanor and a razor sharp intellect which allows him to execute tough marketing projects with ease.
+EDUCATION : INSEADMaster of Business Administration (MBA), General Management, Marketing, Strategy, Decision Sciences, Organizational Behavior
+SKILLS : Social Media Marketing, Blogging, Marketing Communications, Marketing Management, Content Strategy, Advertising, Internal Communications, Market Research, Product Marketing, Team Management, Competitive Analysis, Management, Project Management, CRM, Business Analysis, Content Development, Corporate Communications, SEO, Blog Development, Content Management
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Garima Rai
+TITLE : INSEAD MBA / Marketing Professional - Growth Hacker, Digital / Social Media & Content Marketer, Go-to-market Strategist
+LOCATION : Paris Area, France
+INDUSTRY : Computer Software
+CURRENT COMPANY : Ultrasonic Instrumentations Pvt. Ltd.
+CONNECTIONS : 500+connections
+PAST COMPANIES : Newgen Software Technologies, Ultrasonic Instrumentations Pvt. Ltd., Intrasphere Technologies
+EXPERIENCE : Own branding, product marketing, content management, and social media marketing efforts to ensure consistency in voice and cultivate a referral network; Design, execute, and monitor demand generation marketing campaigns to grow sales pipeline and encourage product adoption; Develop and implement strategic marketing campaigns in conjunction with Sales, Channels, Product Teams, and external influencers such as user groups, industry trade associations, and analyst organizations. Executed Sales Coordination and Marcom operations including lead assignment, content writing and editing for corporate brochures, sales tools, direct mail pieces, advertising copies for newspapers and technical periodicals; Researched and acquired lists for direct mail efforts and ensured distribution of mails to targeted market segments in an efficient and timely manner; Delivered dynamic, engaging presentations at trade shows; Performed extensive market research to gauge market trends, analyze competition, and identify potential customers; Developed and acquired database for marketing campaigns; Created, reviewed, and updated web content; Performed SEO and executed SEM campaigns to drive web traffic - organic as well as paid adverts; Wrote case studies, newsletters, and product brochures; Role: Marketing Communication & PR  Developed succinct content for company websites, white papers, business collaterals, product datasheets, case studies, and advertising copy; Responded to media queries and managed relationship with PR agency; Wrote press release copies and newsletters; Planned and executed internal communication activities; Recognized for efficiently handling the role of Joint Secretary of the Communications Committtee of Newgen's Employee Welfare Society during the Year 2007. The two qualities that make Sanchita a perfect HR professional are her empathetic and supportive demeanor, and commitment to getting work done. As she was the HR representative for the Marketing function, I interacted with Sanchita regularly for new recruitment, defining KRAs, KPIs, team appraisals, training, etc. I was extremely impressed with her multi-tasking ability,...more   Subrata always comes across to people as a helpful and amiable individual. Whenever I needed his help to sort issues related to tax, ITR, PF, investments, etc., during and even after my tenure with Intrashpere, he readily provided his expert guidance and support. He is truly a people's person. Have known Darshak for almost 3 years now, and found him to be a helpful co-worker, and a result-oriented and focused professional. Darshak boasts an amiable demeanor and a razor sharp intellect which allows him to execute tough marketing projects with ease.
+EDUCATION : INSEADMaster of Business Administration (MBA), General Management, Marketing, Strategy, Decision Sciences, Organizational Behavior
+SKILLS : Social Media Marketing, Blogging, Marketing Communications, Marketing Management, Content Strategy, Advertising, Internal Communications, Market Research, Product Marketing, Team Management, Competitive Analysis, Management, Project Management, CRM, Business Analysis, Content Development, Corporate Communications, SEO, Blog Development, Content Management
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Stephanie Santoso
+TITLE : INSEAD MBA Candidate (15J), Exploring Career Opportunities
+LOCATION : Singapore
+INDUSTRY : Management Consulting
+CURRENT COMPANY : GNum
+CONNECTIONS : 500+connections
+PAST COMPANIES : EMC, Caterpillar Inc. (Marine Power Systems division), DaimlerChrysler
+EXPERIENCE : Under partnership and mentoring from Angel investor and INSEAD Adjunct professor Virginia Cha, I worked with Gnum CEO and Business Development Director to accomplish the following:  - Used Lean Start-up methodology to validate Gnum business model - Led the team in creating the Go-to-Market strategy - Provided analysis for Gnum social media to find areas for improvements and growth hacking tactics - Created 2 landing pages and conducted A/B test to optimize customer messaging - Planned marketing campaign executions to optimize customer acquisition strategy Ranked #4 MBA Program worldwide by the Financial Times        Visited the poor neighborhoods door-to-door to help them with groceries, emotional support, encouragement, and prayers.   Stephanie also volunteer at the kitchen by providing food to the poor neighborhoods in the city of Peoria  Stephanie volunteered at the kitchen 1-2 per week to provide hot meals to 50-60 homeless around the neighborhood in the Pioneer Square area  Stephanie also offered encouragement, mentoring, and emotional support to people who come to the Mission. Stephanie provided coaching, mentoring, playing a role of a "big sister" to a 15-years old teenager. She actively provided encouragement for her to do well in school, build closer relationship with her mom and brother, and get along better with her friends at school. She also encouraged her to "dream big" and persevere.   Stephanie provided care for babies and toddlers when their parents attend church service. She provided snacks, changed diapers, and taught at toddlers Sunday school while their parents attended church   Stephanie and her team at WLF organized events and initiatives to empower women to lean in and be inspired in the organization. She recruited new members, provided 1:1 mentoring to inspire women to be successful in their careers Please feel free to contact me via e-mail, phone, or LinkedIn. stephanie.bsantoso@gmail.com  Phone number: +65 86199001 Haripriya is one of the remarkable and exceptional individuals that I have had the pleasure to work with in my career. She is driven, results-oriented, and has a wealth of knowledge, both in breadth and depth in the tech industry. Her experience and knowledge in data storage has helped our company grow to where we are today. She is greatly respected and highly regarded...more I took Professor Otter's class (Product Management) when I was at the Ohio State University. Professor Otter was passionate about his students. He is always willing to help his students with any difficulties and questions they may have. He explains complex theories very clearly and in such a way that it was easy to understand.I highly recommend Professor Otter as a great...more To, Whomsoever it may concern, I had the opportunity to work closely with Zain Master for a Global Petroleum Project at Caterpillar. Zain's thorough analysis and excellent communication skill were key to our project. He captured the audience and was able to get the key points across in an efficient manner. He is also well-liked, honest and willing to give constructive...more Michael is a person who has a very good interpersonal skills. I've worked with Michael when we were in the Marketing Developmental Program. He has great presentation skills and communication skills. He contributes actively during team discussions and his analytical skills comes in handy. His chinese (mandarin) language is also excellent. Ryan has serviced my computers many times and every time he serviced it, he always fix it right with great turnaround time. He offers pick-up and delivery which is great for me, since I work full-time and am usually busy at home. He's very personable and willing to help, even if it's outside his working hours. He is always on-time when he comes to his appointment and does...more
+EDUCATION : INSEADMaster of Business Administration (M.B.A.), Strategy and Management
+SKILLS : Strategy, Cross-functional Team..., Six Sigma, Forecasting, Lean Manufacturing, Process Improvement, Supply Chain, Leadership, Management, Operations Management, Supply Chain Management, Marketing Strategy, Continuous Improvement, Procurement, Training, Analysis, Project Management, Business Development, Business Strategy, Strategic Planning, Consulting, Market Research, Start-ups, Management Consulting, Marketing, Business Planning, Product Management, Team Leadership
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Stephanie Santoso
+TITLE : INSEAD MBA Candidate (15J), Exploring Career Opportunities
+LOCATION : Singapore
+INDUSTRY : Management Consulting
+CURRENT COMPANY : GNum
+CONNECTIONS : 500+connections
+PAST COMPANIES : EMC, Caterpillar Inc. (Marine Power Systems division), DaimlerChrysler
+EXPERIENCE : Under partnership and mentoring from Angel investor and INSEAD Adjunct professor Virginia Cha, I worked with Gnum CEO and Business Development Director to accomplish the following:  - Used Lean Start-up methodology to validate Gnum business model - Led the team in creating the Go-to-Market strategy - Provided analysis for Gnum social media to find areas for improvements and growth hacking tactics - Created 2 landing pages and conducted A/B test to optimize customer messaging - Planned marketing campaign executions to optimize customer acquisition strategy Ranked #4 MBA Program worldwide by the Financial Times        Visited the poor neighborhoods door-to-door to help them with groceries, emotional support, encouragement, and prayers.   Stephanie also volunteer at the kitchen by providing food to the poor neighborhoods in the city of Peoria  Stephanie volunteered at the kitchen 1-2 per week to provide hot meals to 50-60 homeless around the neighborhood in the Pioneer Square area  Stephanie also offered encouragement, mentoring, and emotional support to people who come to the Mission. Stephanie provided coaching, mentoring, playing a role of a "big sister" to a 15-years old teenager. She actively provided encouragement for her to do well in school, build closer relationship with her mom and brother, and get along better with her friends at school. She also encouraged her to "dream big" and persevere.   Stephanie provided care for babies and toddlers when their parents attend church service. She provided snacks, changed diapers, and taught at toddlers Sunday school while their parents attended church   Stephanie and her team at WLF organized events and initiatives to empower women to lean in and be inspired in the organization. She recruited new members, provided 1:1 mentoring to inspire women to be successful in their careers Please feel free to contact me via e-mail, phone, or LinkedIn. stephanie.bsantoso@gmail.com  Phone number: +65 86199001 Haripriya is one of the remarkable and exceptional individuals that I have had the pleasure to work with in my career. She is driven, results-oriented, and has a wealth of knowledge, both in breadth and depth in the tech industry. Her experience and knowledge in data storage has helped our company grow to where we are today. She is greatly respected and highly regarded...more I took Professor Otter's class (Product Management) when I was at the Ohio State University. Professor Otter was passionate about his students. He is always willing to help his students with any difficulties and questions they may have. He explains complex theories very clearly and in such a way that it was easy to understand.I highly recommend Professor Otter as a great...more To, Whomsoever it may concern, I had the opportunity to work closely with Zain Master for a Global Petroleum Project at Caterpillar. Zain's thorough analysis and excellent communication skill were key to our project. He captured the audience and was able to get the key points across in an efficient manner. He is also well-liked, honest and willing to give constructive...more Michael is a person who has a very good interpersonal skills. I've worked with Michael when we were in the Marketing Developmental Program. He has great presentation skills and communication skills. He contributes actively during team discussions and his analytical skills comes in handy. His chinese (mandarin) language is also excellent. Ryan has serviced my computers many times and every time he serviced it, he always fix it right with great turnaround time. He offers pick-up and delivery which is great for me, since I work full-time and am usually busy at home. He's very personable and willing to help, even if it's outside his working hours. He is always on-time when he comes to his appointment and does...more
+EDUCATION : INSEADMaster of Business Administration (M.B.A.), Strategy and Management
+SKILLS : Strategy, Cross-functional Team..., Six Sigma, Forecasting, Lean Manufacturing, Process Improvement, Supply Chain, Leadership, Management, Operations Management, Supply Chain Management, Marketing Strategy, Continuous Improvement, Procurement, Training, Analysis, Project Management, Business Development, Business Strategy, Strategic Planning, Consulting, Market Research, Start-ups, Management Consulting, Marketing, Business Planning, Product Management, Team Leadership
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : MATOV Ivan
+TITLE : --
+LOCATION : Bulgaria
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 5connections
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Ivan Matov
+TITLE : INSEAD MBA Graduate
+LOCATION : Paris Area, France
+INDUSTRY : Construction
+CURRENT COMPANY : Unknown
+CONNECTIONS : 500+connections
+PAST COMPANIES : Aditya Birla Group, Vinci Construction Grands Projets, GDF SUEZ
+EXPERIENCE : Development of branding and marketing strategies for the Pulp and Fiber business unit  Design of dams and hydraulic structures
+EDUCATION : INSEADMaster of Business Administration (M.B.A.)
+SKILLS : Entrepreneurship, Strategy, Civil Engineering, Construction, Concrete, Road, Construction Management, Engineering, Bridge, Project Estimation, Steel Structures, Highways, Project Engineering, Structural Engineering, Primavera P6, Tunnels, Reinforced Concrete, Marketing Strategy, BIM, Negotiation, Project Management, Business Strategy
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Daniel Wang
+TITLE : MBA Candidate at INSEAD - Class of December 2015
+LOCATION : Singapore
+INDUSTRY : Management Consulting
+CURRENT COMPANY : QLD Government Chief Information Office
+CONNECTIONS : 500+connections
+PAST COMPANIES : QLD Government Chief Information Office, CSIRO
+EXPERIENCE : Graduating in December 2015 
+EDUCATION : INSEADMaster of Business Administration (M.B.A.)
+SKILLS : Analytics, SQL, Data Analysis, Business Analysis, SAS, Predictive Modeling, R, Financial Modeling, Data Mining, Project Management, Matlab, Business Strategy, C++, Data Visualization, Python, Analysis, SPSS, Tableau, Microsoft Excel, Predictive Analytics, Statistics, SharePoint, Business Intelligence, Problem Solving, Business Process..., Strategy, PRINCE2, Venture Capital, Startup Development, Management Consulting, Financial Analysis, Leadership
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Preeti Kurani, GIA GG
+TITLE : Gemologist | Sales Excellence Coach | Jewellery Appraiser
+LOCATION : Singapore
+INDUSTRY : Luxury Goods & Jewelry
+CURRENT COMPANY : Gem & Jewellery Education Centre (GJEC)
+CONNECTIONS : 500+connections
+PAST COMPANIES : Frank & Co. Jewellery, Mondial Jeweler, GIA
+EXPERIENCE : Lead overall business operations including product/service development, hiring, business development and regulatory liaison involving:  - Spearheading design, development and delivery of training and certification modules for retail sales/marketing personnel across sales excellence, product/brand delivery, gem expertise and industry know-how.  - Conducting varied stakeholder engagement events for brand/product promotions including consumer and industry seminars, mass media talks and staff workshops.  - Collaborating with luxury/retail businesses to research and implement new setup and growth strategies ranging from new market entry, product launches and sales conversions. Key Accomplishments: - Assisted HQ with end-to-end business operations involving store management, business development, merchandising, quality control & sales.  - Managed the country wide sales team covering recruitment, target setting and performance monitoring and appraisal.  - Managed the merchandising including finished product purchases; sourcing of diamonds and colored gems; stock design and replenishment based on trend and demand analysis.  - Spearheaded the product and sales training across sales, operations and marketing verticals, while creating comprehensive training modules outlining technical know-how and sales SOPs.  - Managed public and media relations encompassing mass media, conferences, trade shows and product launches as the company spokesperson. Key Accomplishments: - As the in-house gemology expert, represented the company at various conferences, trade shows, mass media events. Also, actively contributed with fine jewellery/luxury goods articles, some of which have featured in prominent media.  - Created comprehensive training modules for the sales team focusing on retail sales techniques. Conceptualized, developed and implemented company handbook with detailed focus on history, SOPs and brand and product USPs.  - Introduced a performance management program designed to facilitate higher levels of learning and implementation, to understand and better serve the clients and to remain focused on target achievement.  - Managed varied stakeholder interactions including with clients, partners and BOD. Part of the initial GIA India setup team, I held various executive roles managing different functions across the Education vertical with an unique opportunity to participate in setup work and subsequent growth initiatives.   Key Accomplishments: - Conducted on-campus mainstay gemology and retail sales programs like Graduate Gemologist (GG), Graduate Diamonds, Graduate Colored Stones, Graduate Pearls and Accredited Jewelry Professional.  - Headed the Content Development committee that was involved in planning and designing programs focusing on merchandising, visual merchandising, retail jewelry management and advanced gemology for large retail, wholesale & manufacturing houses.  - Headed the Technical Excellence committee set up to to induct and train new educators to ensure delivery standards.  - Devised business plans for market expansion & penetration by identifying opportunity gaps for the Indian operations in context with the global objectives.  - Handled several key accounts of diamond manufacturers, jewellery retailers and auction house for technical orientation and product delivery.  Pioneer diamond-grading laboratory in India, now a franchise partner of EGL.  Key Accomplishments: - Headed the grading department and responsible for final diamond grades and quality analysis reports.  - Conceptualized & introduced new services including diamond jewellery grading reports.  - Setup and headed the education department.  - Recruited, trained and supervised new hires for both the laboratory and education.
+EDUCATION : Gemological Institute of AmericaGraduate Pearls, Gemology, GPA = 4.0
+SKILLS : Jewelry, Gemology, Diamonds, Retail, Gems, Luxury Goods, Merchandising, Sales Operations, Luxury, Training, Jewelry Design, Sales Management, Visual Merchandising, Store Management, Watches, Retail Jewellery..., Diamond Grading, Pearls, Retail Sales Training, Store Operations
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Sanjna Parasrampuria
+TITLE : Founder | CEO at NEWCLEUS
+LOCATION : Singapore
+INDUSTRY : Marketing and Advertising
+CURRENT COMPANY : Nabeya Bi-Tech Kaisha
+CONNECTIONS : 500+connections
+PAST COMPANIES : HDFC, Nabeya Bi-Tech Kaisha, BNP Paribas
+EXPERIENCE :  Director - Consulting Practise, Business Strategy     Undertook a study of operations and quality management in Japanese companies Undertook a feasibility study of floating rate related products in Corporate Banking Just ping me on Twitter: @sanjnap 
+EDUCATION : INSEADMaster of Business Administration (MBA), Entrepreneurship/Entrepreneurial Studies
+SKILLS : Business Development, Business Strategy, Management, Entrepreneurship, CRM, Strategy, Strategic Planning, Leadership, Analytics, Banking, Sales Operations, Lead Management, Real Estate, New Business Set-up, Process Improvement, Mortgage Lending, Strategy Implementation
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Jay Shah
+TITLE : Head - Presales at Lodha Group
+LOCATION : Mumbai Area, India
+INDUSTRY : Real Estate
+CURRENT COMPANY : Unknown
+CONNECTIONS : 500+connections
+PAST COMPANIES : Citibank, Future Generali India Life Insurance Co. Ltd., ICICI Bank
+EXPERIENCE : Service Head HEAD DIRECT SALES CHIEF MANAGER - CREDIT CARDS Please reach me on jayshah_78@yahoo.com Urvashi has been one of the most exceptional trainer and individual that I have come across. Under her leadership at Spanco BPO wherein I had outsourced my process the quality and training levels were of a different league altogether. Her expertise and the detailed understanding and grip that she has in her domain is truly phenomenal which makes her one of the best in this...more
+EDUCATION : Narsee Monjee Institute of Management StudiesMFM, FINANCE
+SKILLS : Banking, Credit Cards, Retail Banking, Team Management, Cross Selling, Management, Relationship Management, MIS, Vendor Management, Insurance, Direct Sales, CRM, Business Development, Customer Service, Call Center, Asset, Portfolio Management, Telemarketing, Call Centers, Financial Services, Credit, Sales, Start-ups, Credit Analysis, Branch Banking, Negotiation, Loans, Risk Management, Corporate Finance, Liability, BFSI, Leadership, Credit Risk, Pre-sales, Commercial Banking, Banking Operations, Contact Centre, Inbound, Outbound, People Management, BPO, Core Banking, Inbound Marketing, Contact Centers, Outsourcing, Finance, Financial Risk, Business Analysis, Sales Operations, Cross-functional Team...
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Kristine Lauria
+TITLE : Country Manager at Upwork (previously Elance-oDesk)
+LOCATION : Singapore
+INDUSTRY : Internet
+CURRENT COMPANY : Walkabout Singapore
+CONNECTIONS : 500+connections
+PAST COMPANIES : Upwork (previously Elance-Odesk), FailCon Singapore, Urban Hikers
+EXPERIENCE : The Founder Institute is a global network of startups and mentors that helps entrepreneurs launch great technology companies around the globe.  I speak with the incoming students about community building and integrated outreach campaigns, specifically email marketing. I also cover how to build the right team at the right price - how to hire, pay and manage freelancers. JFDI brought together fifty entrepreneurs from around the world to race through 100 days and launch their startups. As I mentor, I coach the teams by helping them leverage Silicon Valley best practices - how to run a lean startup, the customer development model, and on & offline community building.  At Mission Street Media we believe in the power of large, inclusive communities and work to bring online relationships into the real world. We get the word out in a free weekly email (www.thelist.sg) that highlights the best of Singapore's tech events. Our annual Walkabout (www.walkabout.sg) connects thousands of interested developers, designers and students with over 100 startups, agencies and technology companies.  We help companies develop authentic relationships with their users on the web, through email and at events. Our community building strategy creates connected and engaged customers who share the love.  Clients include: Twitter, Cognizant Technology Solutions, Golden Gate Ventures  The list has helped promote company launches and events like: Uber, Super Happy Dev House, Founder Institute, Lean Startup Machine and dozens more.  FailCon is a one-day conference for technology entrepreneurs, investors, developers and designers to study their own and others' failures and prepare for success.  Appearing for the first time in Asia, FailCon Singapore partnered with the NRF and Tech Ventures to bring entrepreneurs from around to the world together on one stage to discuss how they royally failed and what they learned.  FailCon had over 300 attendees, 14 speakers and killer afterparty. Don't miss the hottest tech event in Asia! Sign up for FailCon 2013 - www.failcon.sg Traveled the world, confronted numerous cultural, physical and olfactory challenges that were recorded for thousands of readers a month.  Some highlights: * Spent 10 days driving a tuk tuk over 1,000km on the wild roads of India.  * Ventured 4,014km high to to tallest city in the world, Litang, and rocked out to underground hip hop in Beijing. * Scooted around the island of Taiwan and explored the jungles of Borneo and Laos.  * Spent 10 days in silent meditation and two weeks living at a Buddhist monastery studying Kung Fu under Shaolin monks.  Check out the adventure at www.urbanhikers.com -or-  See what we're saying in 140 characters @urbanhikers  Coordinate a transatlantic board to further develop the South African-based Peace Centre goals, programmes, and initiatives. Present the Tutu message to foundations, corporations and individuals through special events, symposiums, and individual meetings. Effectively build relationships with a diverse assembly of international youth participants, board members, donors, and community groups affected by our outreach. Standardized student billing system; increased administrative efficiency and facilitated students understanding of overseas expenses.   Planned informational events involving Deans, students, parents and international educators.   Made policy recommendations to Dean of Study Abroad regarding performance expectations, including class structure, grade requirements, and course/credit equivalency with home institution.   Authored manual for departmental policies and guidelines. I worked with John several times starting with my wedding in 2009. He's super professional, the food is delicious and laid our beautifully and best of all, John makes it fun.   Planning an event can be super stressful, but not when you're dealing with Yes, We Cater. They liste to what you want and turn out a bespoke experience taht's tailored to your needs. These guys...more I love working with Osman. He's a communicative, responsive team player and constantly pushes the conversation forward with fresh ideas. Osman understands the nuances of his market, and can clearly articulate and defend his marketing and client acquisition strategy. Best of all, he gets results and shares exactly how! Arnaud is a tremendous benefit to the Singapore startup scene. His enthusiasm, passion and knowledge of growing technology companies and willingness to connect job seekers with startups is a benefit to the ecosystem as a whole. He's a consummate networker and incredibly generous with his time and connections. Not only does Sarah have a gorgeous voice and stage presence, her skills as an emcee are invaluable for any event. She understands how to get the crowd involved, keep the event moving and can easily pave over any awkward pauses. She is worth her weight in gold. If I were in charge of hiring, Rachel would be my first choice. Not only does she kick ass in handling PBwiki support, but she has great insight into what customers want/need and how to make them successful.
+EDUCATION : Fordham UniversityMA, International Political Economy and Development
+SKILLS : Social Media, Start-ups, Strategy, Entrepreneurship, Community Management, Blogging, Digital Marketing, Email Marketing, Online Content Creation, User Experience, Digital Media, Networking, Marketing, Online Advertising, Strategic Partnerships, Content Strategy, Social Media Marketing, CRM, Management, Business Strategy, Marketing Communications
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Nie San Lim
+TITLE : Project Manager at JFDI.Asia - Joyful Frog Digital Incubator
+LOCATION : Singapore
+INDUSTRY : Marketing and Advertising
+CURRENT COMPANY : Unknown
+CONNECTIONS : 434connections
+PAST COMPANIES : JFDI.Asia - Joyful Frog Digital Incubator, Seraya Energy Pte Ltd (Retail arm of YTL PowerSeraya Pte Ltd)
+EXPERIENCE : Accelerate 2015B: Recruitment  Conducting interviews of Accelerate applicants.  Accelerate 2015A: Onboarding of 2015A teams Planning of Demo Day 2015A  Accelerate 2014B: Took part in various aspects of the planning of the Demo Day 2014B  Go Global Programs:  Kazakhstan Go Global Accelerator 2014 TINC ASIA 2014 (Innovation Norway)  Accelerator Lite Programs: MSC Malaysia Accelerator Lite 2014  Other Programs: Russian Startup Tour  Coordinated and managed a video-shoot for a customer testimonial (Dairy Farm) from planning, execution to post-production.   Generated white papers on electricity procurement for key industry sectors in Singapore.   Conducted research on overseas energy retailers and developed a final marketing proposal, presenting to the company feasible ideas for future direction and development.
+EDUCATION : Singapore Management UniversityBachelor of Social Science, Double major in Psychology & Marketing
+SKILLS : Marketing, Chinese, Bilingual Proficiency, Mandarin, Marketing Strategy, Digital Marketing, Consumer Behaviour, Start-ups, English, Event Management, Marketing Communications, Business Development, Strategy, Business Strategy, Entrepreneurship, Project Management, Singing, Psychology, Market Research, Social Media Marketing, Sales, Accelerator
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Emmanuel Allix
+TITLE : Founder & CEO Art Of Click
+LOCATION : Singapore
+INDUSTRY : Marketing and Advertising
+CURRENT COMPANY : SOS Children's Villages
+CONNECTIONS : 500+connections
+PAST COMPANIES : Sofialys, Isalis Asia, Mobile Marketing Association
+EXPERIENCE : Art Of Click is a Performance-based DSP, Mobile Ad Network and Media Agency, operating primarily in Asia Pacific. We offer mainly Performance-based campaigns to brands, agencies, apps developers, games and content providers. Our models include CPA, CPD, CPI, CPL, CPR, CPS etc in short all mechanisms the click.  Consulting for various French / International companies : strategy, go-to-market approach such as for exemple :  Wister SAS : Go-to-market strategy Sofialys SAS : Business development in SEA AAA Agency : Mobile advertising strategy, and deployment in APAC Evangelising mobile marketing and advertising Active member of the Executive Committee     Initiated a start up project aimed at selling high-end home furnishing items. Ernst & Young at Capital-IT forum awarded the project in March 2000, as one of the top 40 projects of the year.  Major French brands such as Baccarat, Bernardaud, and Hermes agreed to propose their products on our prototype website. Hachette Filipacchi (to handle Magazine contents), Cartier Foundation (to promote a virtual artist gallery), and Philippe Starck were also to join the project upon successful venture capitalist funding, which did not materialize.  Install Telecom infrastructure across APAC Helping children's village to raise the kids up tot their eduction degrees Please contact me at eallix@artofclick.com or Skype : eallix. Thanks Charles did an Internship at Art Of Click from June 2014 to December 2014. He was employed as Ad Ops Executive and was extremely fast to get himself trained and up to the challenge of the role. Charles is very organised and meticulous. He also developed great business development skills and I would not hesitate to hire him back in Art Of Click at the end of his studies.  I had the pleasure to work for over 2 years with Yann, as a business partner, and as a colleague later on. Yann is a unique expert in mobile advertising space. Not only he is by far one of the TOP 3 technical mobile Guru I know in the industry and is able to develop and manage mobile tech platforms, but he also have an understanding of the business contraints and...more I had the chance to work with Max when i was in GroupM and InMobi. Max is a very strong mobile technology expert, and was instrumental in getting partnership deals between Ericsson and GroupM, and then with InMobi. A pleasure as well to engage with Max, as Max has such a pleasant personality.. Always a plus in business... I had the chance to welcome Shobhit in my team at InMobi in 2010. Shobhit even if new to mobile advertising impressed me from start thanks to its amazing analytical skills coupled with a very distinctive business acumen technique. Thanks to his devotion and efficiency, we managed to close several key deals in APAC. It was a pleasure managing and collaborating with Shobhit...more Had the privilege to serve twice at MMA APAC, and to work there while Rohit was the MD. Not only Rohit understands Mobile Marketing and Advertising like few in the business, but Rohit is also a sounded business man who helped MMA to come from nowhere to an established successful and recognized organization. A fantastic achievement knowing the hard task when it comes to...more
+EDUCATION : 
+SKILLS : Mobile Marketing, Mobile Devices, E-commerce, Online Advertising, Mobile Advertising, Digital Media, Start-ups, Digital Marketing, Online Marketing, Marketing Strategy, Business Development, New Business Development, Strategy, Entrepreneurship, Mobile Applications, Mobile Strategy, Strategic Partnerships, Analytics, Mobile Internet, Digital Strategy, Business Strategy, Management, PPC, Mobile Technology, Marketing, Web Analytics, Integrated Marketing, B2B, Lead Generation, Advertising, Interactive Marketing, Advertising Sales, Telecommunications, Affiliate Marketing, Mobile Commerce, Go-to-market Strategy, Ad Networks, SEM, Leadership, Executive Management, Creative Direction, Mobile Content, Venture Capital, Web Marketing, Google Adwords, SEO, E-business, Interactive Advertising, Internet Strategy, Ad Serving
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Waki Yoneoka
+TITLE : Board Member at Female Founders
+LOCATION : Singapore
+INDUSTRY : Internet
+CURRENT COMPANY : Pecha Kucha Night Singapore
+CONNECTIONS : 500+connections
+PAST COMPANIES : Founder Institute, KPMG FAS, New City Corporation
+EXPERIENCE : A tech startup for photo curation service primarily targeting for a family segment. Female Founders is an NGO aiming to improve gender diversity for local entrepreneurs with a goal to achieve 20% of female-driven startup by 2020. Host events inviting 10 - 12 thought leaders from different segments aiming to inspire people and motivate local community   Helped creating the annual business planning for microfinance activities based in Samoa. Our team of PechaKucha Night has been using Peatix service since they started their business in Singapore, and Nicholas has been a great representative of the company. I have been always impressed by his love and passion to his work, and I think his personable public face is really helping boost user acquisition of the company. I also would like to add, Peatix team is...more Pramod is fully self-motivated in exploring subjects new to him, and has a gift to understand and adopt in new situations very quickly. He has a great work ethics as well. I believe he will excel in any environment, and I am looking forward to seeing him making excellent career progress. Although it was a brief period, I was happy to have him as an intern for my business.
+EDUCATION : INSEADMBA
+SKILLS : Start-ups, Entrepreneurship, Investments, Business Strategy, Product Management, Team Management, Strategic Customer..., Mobile Applications, Financial Analysis, Digital Marketing, Business Planning, Event Organization, Sales, Financial Modeling, Portfolio Management, Restructuring, Real Estate Finance, Market Research, Financial Advisory, Strategy
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Sanjna Parasrampuria
+TITLE : Founder | CEO at NEWCLEUS
+LOCATION : Singapore
+INDUSTRY : Marketing and Advertising
+CURRENT COMPANY : Nabeya Bi-Tech Kaisha
+CONNECTIONS : 500+connections
+PAST COMPANIES : HDFC, Nabeya Bi-Tech Kaisha, BNP Paribas
+EXPERIENCE :  Director - Consulting Practise, Business Strategy     Undertook a study of operations and quality management in Japanese companies Undertook a feasibility study of floating rate related products in Corporate Banking Just ping me on Twitter: @sanjnap 
+EDUCATION : INSEADMaster of Business Administration (MBA), Entrepreneurship/Entrepreneurial Studies
+SKILLS : Business Development, Business Strategy, Management, Entrepreneurship, CRM, Strategy, Strategic Planning, Leadership, Analytics, Banking, Sales Operations, Lead Management, Real Estate, New Business Set-up, Process Improvement, Mortgage Lending, Strategy Implementation
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Unknown
+TITLE : Unknown
+LOCATION : Unknown
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : Unknown
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Siu Rui Quek
+TITLE : Product at Carousell (We're hiring!)
+LOCATION : Singapore
+INDUSTRY : Information Technology and Services
+CURRENT COMPANY : Guilin Adventure Spa & Resort (China)
+CONNECTIONS : 500+connections
+PAST COMPANIES : VSee, OgilvyOne WorldWide (Singapore), DBS Vickers Securities (Singapore)
+EXPERIENCE : Building a little app called Carousell to make peer-to-peer marketplaces more efficient and fun.   It is a simple and fun way to buy and sell anything with anyone. - Developed customer development and pricing strategy with CEO - Managed press relations, wrote press releases, and facilitated press outreach - Conceptualized and implemented tactical marketing at trade shows, email marketing and social media marketing campaigns - Data analytics of customer health and usage statistics  - Content management and copywriting for web site and marketing collateral - Created wireframes for new and experimental features to facilitate rapid prototyping - Managed mailing list of entire user base and optimized email campaigns/newsletters for conversion - Assisted in usability review board for SingTel myBusiness portal. Did heuristic analysis and card sorting to develop sitemap and wireframes.  - Wrote copy and managed content for SingTel Youth Olympic Games through-the-line sponsorship campaign - Developed Branding and Integrated Marketing Communications strategies for product and launch with appointed advertising agency  - Collaborated with Reuters in designing GUI of trading platform - Coordinated events for corporate clients and international guests held at resort  - Shadowed management in all functions of boutique resort and gained  exposure to China's unique and challenging business climate and practices
+EDUCATION : National University of SingaporeBachelor of Business Administration, Management, Marketing, Entrepreneurship
+SKILLS : Marketing Strategy, Integrated Marketing, Product Management, Social Media, Product Marketing, Public Relations, Marketing Communications, Customer Development, Product Design, Copywriting, Account Management, Branding Initiatives, Client Services
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Charif El-Ansari
+TITLE : Mentor @ Hatcher
+LOCATION : Singapore
+INDUSTRY : Internet
+CURRENT COMPANY : El Ansari Group
+CONNECTIONS : 500+connections
+PAST COMPANIES : American University of Science and Technology, Google, Dell
+EXPERIENCE : Part-time lecturer to senior undergraduate students on Supply Chain Management and e-Marketing. Angella has interned at our company, Dropmysite, a Singapore-based cloud backup company since January 2014. She has worked on three projects so far with excellent results:   1. Taiwan market research on the hosting industry  2. Localization of our websites to traditionalChinese  3. Android Application UI/UX   Working with us on various projects gave me a well-rounded...more I have been working closely with Peter for the past 9 months and he has done great work for us at Dropmysite on the public relations fronts. He was successful at creating consistent media buzz through continuous creation of relevant content for our business and through engaging various media outlets to publish this content and to interview our executives. John has the right qualities that makes a great sales leader. He is great at building partner relationships, has very good strategic and business acumen and is a team player. I have worked closely with Eng duing my role as Head of Business Development at Google in his capacity as a compliance manager. Eng is a real pleasure to work with: excellent team player, shows good understanding of the challenges in the biz dev world, is flexible while safegaurading Google's compliance requirements. In my experience, this balanced approach is quite rare...more Lianne is a real pleasure to work with. She is sharp, creative, dependable and professional. She was a very successful account manager building real partnership with her clients, taking care of their basic account issues all the way to giving them strategic recommendations to improve their on-line business.
+EDUCATION : Vanderbilt UniversityMBA, e-commerce & operations
+SKILLS : Leadership, Product Management, Strategic Partnerships, Start-ups, Marketing, Sales, Business Development, Business Strategy, Online Marketing, Go-to-market Strategy, Strategy, E-commerce, Online Advertising, Cloud Computing, Negotiation, Product Marketing, SEM, SaaS, Analytics, Mobile Marketing, Competitive Analysis, Digital Marketing
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Michiel Wind
+TITLE : CEO at Crystal Horse Investments Pte Ltd
+LOCATION : Singapore
+INDUSTRY : Investment Management
+CURRENT COMPANY : Budget Synergy Sdn Bhd
+CONNECTIONS : 500+connections
+PAST COMPANIES : Budget Synergy Sdn Bhd, Ministry of Defence, Netherlands
+EXPERIENCE : Mathematical models through software, investing Systems Designer, Information Analyst, Consultant Quality Assurance and Quality Control Ash is a very nice guy to work with. He is hard working and passionate about Investopresto. He has a clear vision, but is also prepared to pivot his business model when the situation requires it. He is very much at home in the financial world and is well-connected.
+EDUCATION : University of LeidenMaster of Science (MSc), Mathematics and Computer Science
+SKILLS : Venture Capital, Start-ups, Entrepreneurship, Investments, Private Equity, Business Strategy, Angel Investing, Business Development, Emerging Markets, Due Diligence, Marketing Strategy, E-commerce, New Business Development, Strategic Planning, Social Media Marketing, Online Advertising, Hedge Funds, Risk Management, Software Development, Social Media, Investors, Mathematical Modeling, Mergers
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Han Yang Lee
+TITLE : Associate (Investments) at Singtel Innov8
+LOCATION : Singapore
+INDUSTRY : Design
+CURRENT COMPANY : Island Biodiesel
+CONNECTIONS : 500+connections
+PAST COMPANIES : IDEO, Island Biodiesel, TSLA
+EXPERIENCE :  Worked as a prototyper, building low to high resolution models using foam core, wood and paper. Prototyped as part of the IDEO design-thinking process to iterate quickly and improve with each version.  Other roles included project & design research, print testing, free-hand digital illustration & communications design. Responsible for the creation of all visual and marketing materials, including web design, typography and branding.  Establishing a network of local restaurants in the Cayman Islands to provide a sustainable source of biodiesel feedstock. Also responsible for hiring auxiliary collectors and coordinating collection schedules.  Sourcing for reliable providers of the various materials and equipment needed to produce and distribute biodiesel; with trusted suppliers in Belgium, Jordan and the United States. Maintaining relationships with our customers and educating the market on the benefits of biodiesel.  www.island-biodiesel.com   Conceptualized designs for buildings, layout of floorplans and relevant graphics Rendered architectural designs and perspective images; drew plans, sections and elevations Projects included Resorts World at Sentosa, Universal Studios Singapore and Orchard ION hanyanglee@gmail.com Lucas is currently the Co-President of the Brown University Merlions (Singapore Society). He has played an integral role in spearheading the upgrade of BUM's status and also securing the future success of the group.   Lucas has shown visionary leadership and initiative in achieving CAT 3 level for BUM; ensuring exponentially increased funding and status of the group from...more
+EDUCATION : Brown UniversityBA, Visual Arts, Economics
+SKILLS : Illustrator, Marketing, Photoshop, Microsoft Office, Public Relations, Web Design, SketchUp, Digital Photography, Art, Fine Art, Adobe Creative Suite, InDesign, Publicity, Ink
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Jamey Merkel
+TITLE : --
+LOCATION : Singapore
+INDUSTRY : Unknown
+CURRENT COMPANY : Unknown
+CONNECTIONS : 1connection
+PAST COMPANIES : Unknown
+EXPERIENCE : 
+EDUCATION : Unknown
+SKILLS : 
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Harry Daniel Fu
+TITLE : Founder at Penroads
+LOCATION : Singapore
+INDUSTRY : Information Technology and Services
+CURRENT COMPANY : Unknown
+CONNECTIONS : 198connections
+PAST COMPANIES : The Founder Institute, Golden Gate Ventures, Drive.SG
+EXPERIENCE : Penroads is an innovative social platform for travellers & backpackers to connect with each other.   There is something about travel that brings people together in a meaningful way, and we want to champion this experience.   Since our beta release in February, Penroads has a user base that currently represents over 30 countries - achieved mostly on organic growth. We recognize that social travel is an emerging behavioral trend, and we're working hard to be at the forefront of its technological development.   If you've got any ideas, I would genuinely love to hear from you. As I'm still learning to get better at my job, any and all help is greatly appreciated.  Making sure everyone gets pizza on Thursday evenings. Assisted in general due diligence. Developed marketing campaigns with a SGD$50,000 budget for branding and increasing sales growth. Successfully communicated with market for likely long-term profits. This resulted in an increase of 246.54% in engagements with the customers by the end of the internship.   Designed and introduced Referral and Loyalty programs.   Wrote proposals towards affiliate business partnerships with other companies.   Analyzed and wrote reports on revenue growth, social media marketing ROI as well as business opportunities which are relevant to Drive.SG.  Always open to coffee.   Harry@penroads.com I've had the privilege of working with Kean closely, and I've always admired his creativity and diligence. He's one of the smartest people I know, as well as a results-driven leader. Works crazy hours to get things done well and on time. Brilliant developer. 
+EDUCATION : University of LondonBachelor's Degree, Mathematics & Economics
+SKILLS : Social Media, Business Strategy, Management, Venture Capital, Microsoft Office, Marketing Strategy, Project Management, Mergers & Acquisitions, Investments, Marketing, Financial Analysis, Strategy, Leadership
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Philippe Limes
+TITLE : Co-founder, CEO at wedilo
+LOCATION : Singapore
+INDUSTRY : Internet
+CURRENT COMPANY : Unknown
+CONNECTIONS : 500+connections
+PAST COMPANIES : Haute Avenue, Showroomprive.com
+EXPERIENCE : One of the ventures from www.catchagroup.com, specialized in fashion and lifestyle sales in the format of online private sales/flash sale/destocking business. Managed Spain, Italy, UK & Netherlands Guido helped us in kicking off and developing our SEO and SEM campaigns for our websites in both Malaysia and Singapore. His work was impecable, professional and added tremendous value to our organization. I find that Guido is a dedicated person who's skills are the perfect match for any ecommerce company wanting to set up an ambitious online marketing strategy. This is...more Olivier has a quite rare and unique ability of rapidly implementing major structural changes into a growing organization that needs to get to the next level. He quickly identifies the weak spots and without hesitation enters at the core of it and does what needs to be done. He is a great asset for any organization. Results driven, pragmatic and nice guy to sum it up.
+EDUCATION : 
+SKILLS : E-commerce, Online Advertising, Marketing Strategy, Digital Marketing, Mobile Marketing, New Business Development, Management, Marketing, Web Marketing, Marketing Communications, Social Media Marketing, Negotiation, Web Analytics, E-business, International Marketing, SEO, Fashion, Retail, Affiliate Marketing, Social Media
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Damian Chow
+TITLE : Co-Founder at PayWhere Pte Ltd
+LOCATION : Singapore
+INDUSTRY : Information Technology and Services
+CURRENT COMPANY : Mapletree Investments Pte Ltd
+CONNECTIONS : 500+connections
+PAST COMPANIES : Aeturnus E-Solutions LLP, Mapletree Investments Pte Ltd
+EXPERIENCE : Paywhere is an internet technology company with the mission of bringing the best online retail experience to both buyers and sellers.  Our flagship product is TackThis, a social eCommerce platform that enables purchases within social networks such as Facebook, Blogger, LiveJournal, and Wordpress. Sellers can set up a storefront within minutes and instantly turn these social networks into marketing and sales channels. Buyers can shop without interruption and leaving the site. TackThis is the first social eCommerce platform in Asia. More at www.tackthis.com. Massive Infinity, is a mobile app and web systems developer based in Singapore. Here in MI, we are constantly developing and utilizing creative technologies that can innovate and facilitate businesses to reach the next level. We delve in the mystic arts of mobile technology and the immeasurable possibilities of the web and digital domains, pioneering and advancing new and existing concepts and streamlining business operations. Aeturnus E-Solutions started off as a web design and development company. It is now part of Massive Infinity. - Conducted investment risk reviews for both development and investment projects and evaluated the projects-specific risks and their impact on the group portfolio risk. - Developed and implemented management frameworks and risk evaluation tools - Worked with asset, investment, and finance teams to analyze risk impacts on the company - In charge of implementation of EVA performance measurement system down to business units
+EDUCATION : Nanyang Technological UniversityBachelor of Business, Banking & Finance, Accountancy
+SKILLS : E-commerce, Start-ups, Entrepreneurship, Business Strategy, Mobile Marketing, Mobile Applications, Strategic Partnerships, Digital Marketing, Social Media, Web Design, Social Commerce, Mobile Devices, Web Analytics, PPC, Online Marketing, Web Development, Mobile Technology, Angel Investing, Digital Media, SEM, User Experience, Google Analytics, Investment Property..., Digital Strategy, Online Advertising, Mobile Internet, SEO
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Cornelius Loh
+TITLE : Business Development, F*** Movie Mag at Sterne & Lears Global Pte Ltd
+LOCATION : Singapore
+INDUSTRY : Publishing
+CURRENT COMPANY : Royce & Collins (S) Pte Ltd
+CONNECTIONS : 260connections
+PAST COMPANIES : SPH Magazines Pte Ltd, Sterne & Lears Publishing Pte Ltd, Royce & Collins (S) Pte Ltd
+EXPERIENCE :    
+EDUCATION : Ngee Ann PolytechnicDiploma, Mechanical Engineering
+SKILLS : Advertising, Marketing Communications, Business Development, Event Management, Magazines, Digital Marketing, Competitive Analysis, New Business Development, Sales
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Charlie Ill
+TITLE : Investment Manager at Red Dot Ventures Pte Ltd
+LOCATION : Singapore
+INDUSTRY : Venture Capital & Private Equity
+CURRENT COMPANY : Master of Business Administration (MBA)--see education
+CONNECTIONS : 500+connections
+PAST COMPANIES : Red Dot Ventures Pte Ltd, Master of Business Administration (MBA)--see education, Precision Castparts
+EXPERIENCE :  Operations Manager, Process Engineer and Maintenance Engineer     
+EDUCATION : National University of Singapore / NUSMaster of Business Administration (MBA), Finance and Sales, GPA to date: 3.8/4.0
+SKILLS : Strategy, Financial Modeling, Financial Analysis, Leadership, Business Development, Business Strategy, Manufacturing, Entrepreneurship, Project Management, Team Leadership, Mechanical Engineering, Strategic Planning, Operations Management, Venture Capital, Negotiation, Deal Sourcing, Microsoft Excel, Microsoft Office, Data Analysis, Change Management, ANSYS, Team Mentoring, Board of Directors, Start-ups, Engineering Management, Corporate Finance, Management, Product Development, Investments
+END OF PERSON
+
+START OF PERSON:
+FULL NAME : Rishi Gupta
+TITLE : Founder, www.minematic.com
+LOCATION : Singapore
+INDUSTRY : Computer Software
+CURRENT COMPANY : Unknown
+CONNECTIONS : 461connections
+PAST COMPANIES : The Founder Institute, Barclays Investment Bank, Nucleus Software Solutions, Singapore
+EXPERIENCE : Minematic is a web-based automated solution that helps internal marketers in e-commerce businesses automate customer retention and maximize repeat customers. It performs predictive analytics of customers past purchases to create personalized 1-to-1 recommendations and communicate through emails.
+EDUCATION : Unknown
+SKILLS : Database Design, Java, Oracle, SQL, Oracle Applications, Oracle PL/SQL..., iOS development, Basel II, Lending Solutions, Data Analytics, E-commerce, Business Development, Start-ups, Management, Entrepreneurship, Software Project..., Project Management, Business Strategy, Strategy
+END OF PERSON
+
+END OF FILE
+

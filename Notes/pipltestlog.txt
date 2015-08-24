@@ -1,0 +1,20 @@
+Info for cheeyongneo@gmail.com:
+{'User IDs': ['734884202@facebook']}
+Info for tecknaml@gmail.com:
+{'User IDs': ['734884202@facebook']}
+Info for BZHANG009@e.ntu.edu.sg:
+{'User IDs': ['734884202@facebook']}
+Info for gaurav.anil.santoshwar@gmail.com:
+{'User IDs': ['734884202@facebook']}
+Info for praveen951kumar@gmail.com:
+{'cities': ['Saint Anthony', 'Minneapolis']}
+Info for zhouxin07@gmail.com:
+{}
+Info for onur.kardesler@insead.edu:
+{'User IDs': ['113052104@twitter']}
+Info for onur.kardesler@gmail.com:
+{'cities': [], 'User IDs': ['106698580621514216179@google', '63296612@linkedin', '19/245/B98@linkedin']}
+Info for ekaterina.kochetygova@insead.edu:
+{}
+Info for rubens.nigoghossian@insead.edu:
+{'User IDs': ['36615954@N05@flickr']}

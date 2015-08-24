@@ -1,0 +1,422 @@
+Information for 19 people:
+
+START OF PERSON:
+Email : adefolum@hotmail.com
+USERNAME : Adefolu Majekodunmi
+Gender : Male
+Location : Lagos, Nigeria
+Hometown : London, United Kingdom
+Friends : 230
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : INSEAD
+Job : Former Enterprise & Partner Group Manager
+Company : Microsoft
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : adelhaddoud@gmail.com
+USERNAME : Adel Haddoud
+Gender : Male
+Location : Casablanca, Morocco
+Hometown : Paris, France
+Friends : 332
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : alexis.vandewyer@gmail.com
+USERNAME : Alexis Van De Wyer
+Gender : Male
+Location : Unknown
+Hometown : Unknown
+Friends : 325
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : INSEAD
+Job : Worked
+Company : Ebay
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : alexandre.heuze@free.fr
+USERNAME : 
+Gender : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : 153
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : andreas.wallfeld@daimler.com
+USERNAME : Andreas von Wallfeld
+Gender : Male
+Location : Unknown
+Hometown : Unknown
+Friends : 341
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 1
+Main Interest : Sports
+END OF PERSON
+
+START OF PERSON:
+Email : antonio.guerreiro@cires.pt
+USERNAME : 
+Gender : Male
+Location : Condeixa A Nova, Coimbra, Portugal
+Hometown : Lisbon, Portugal
+Friends : 70
+Married : Yes
+Followers : Unknown
+Education : Chemical Engineering
+Schools : University of Coimbra
+Job : 
+Company : 
+Graduation : 1989
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : are.follesdal.tjonn@dnv.com
+USERNAME : 
+Gender : Male
+Location : Unknown
+Hometown : Unknown
+Friends : 242
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : arkadiusz.rochowczyk@philips.com
+USERNAME : Arek Rochowczyk
+Gender : Male
+Location : Gdansk, Poland
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 122
+Sports : 3
+Main Interest : Sports
+END OF PERSON
+
+START OF PERSON:
+Email : artjana.uttaravichien@roche.com
+USERNAME : Artjana Uttaravichien
+Gender : Female
+Location : Seoul, Korea
+Hometown : Bangkok, Thailand
+Friends : 296
+Married : Unknown
+Followers : 57
+Education : 
+Schools : Mahidol University
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 1
+Sports : 0
+Main Interest : Music
+END OF PERSON
+
+START OF PERSON:
+Email : atul.samalia@bayerbbs.com
+USERNAME : Atul Samalia
+Gender : Male
+Location : Mumbai, Maharashtra, India
+Hometown : Unknown
+Friends : 268
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : aurelian@pobox.com
+USERNAME : Aurelian Lis
+Gender : Male
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : bela.lainck@brightstarcorp.com
+USERNAME : Bela Lainck
+Gender : Male
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : The University of Edinburgh
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : bjarke.thoroe@storebrand.no
+USERNAME : Bjarke Thoroe
+Gender : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 1
+Sports : 0
+Main Interest : Music
+END OF PERSON
+
+START OF PERSON:
+Email : bjorn.sjogren@mauritzcompany.com
+USERNAME : 
+Gender : Male
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : brigitte@britcham.org.sg
+USERNAME : Brigitte Holtschneider
+Gender : Female
+Location : Unknown
+Hometown : Unknown
+Friends : 281
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : Wirtschaftsakademie Hamburg
+Job : Worked
+Company : Reemtsma
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : bela.lainck@brightstarcorp.com
+USERNAME : Bela Lainck
+Gender : Male
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : The University of Edinburgh
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : bjarke.thoroe@storebrand.no
+USERNAME : Bjarke Thoroe
+Gender : Unknown
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 1
+Sports : 0
+Main Interest : Music
+END OF PERSON
+
+START OF PERSON:
+Email : bjorn.sjogren@mauritzcompany.com
+USERNAME : 
+Gender : Male
+Location : Unknown
+Hometown : Unknown
+Friends : Unknown
+Married : Unknown
+Followers : Unknown
+Education : Unknown
+Schools : Unknown
+Job : 
+Company : 
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+START OF PERSON:
+Email : brigitte@britcham.org.sg
+USERNAME : Brigitte Holtschneider
+Gender : Female
+Location : Unknown
+Hometown : Unknown
+Friends : 281
+Married : Unknown
+Followers : Unknown
+Education : 
+Schools : Wirtschaftsakademie Hamburg
+Job : Worked
+Company : Reemtsma
+Graduation : Unknown
+Age : Unknown
+Schooling Years : Unknown
+Movies : 0
+Music : 0
+Sports : 0
+Main Interest : Unknown
+END OF PERSON
+
+END OF FILE
+
